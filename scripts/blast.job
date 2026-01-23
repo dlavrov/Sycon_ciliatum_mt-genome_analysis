@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Copy/paste this job script into a text file and submit with the command:
+#    sbatch thefilename
+# Job standard output will go to the file slurm-%j.out (where %j is the job ID)
+
+#SBATCH --nodes=1   # Number of nodes to use
+#SBATCH --ntasks-per-node=32   # Use 32 processor cores per node 
+#SBATCH --time=1:0:0   # Walltime limit (DD-HH:MM:SS)
+#SBATCH --mem=2998G   # Maximum memory per node
+
+# LOAD MODULES, INSERT CODE, AND RUN YOUR PROGRAMS HERE
+bash blast_cds.sh

@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# Prompt the user for what to do
+read -p "What do you want to do with each file? " choice
+echo "Your choice is: $choice"
+
+# Ask if the user wants to redirect stdout
+read -p "Redirect output to a file? (y/n): " redirect
+
+if [[ "$redirect" =~ ^[Yy]$ ]]; then
+    for file in "$@"; do
+        # Derive output filename automatically
+        output_file="${file}.out"
+        echo "Running: $choice $file > $output_file"
+        eval "$choice $file > \"$output_file\""
+    done
+else
+    for file in "$@"; do
+        echo "Running: $choice $file"
+        eval "$choice $file"
+    done
+fi
+
+echo "Done!"

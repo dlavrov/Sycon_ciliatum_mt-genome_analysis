@@ -1,0 +1,510 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        CCCGGCCGCAGAATGCTGGGTCCTTATCGGCGCTGGCCTCTTGGTATCAG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        CGCCTCGCGTCGGGCCCGGCGTACCACACGCCGCCGGCGCCCTTGGACTT
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TCAGAGGGAAGAAGGCGGTGCGTCATGCTTGGGTCGCTCATATCGGCGCC
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        AACCGCGCCTCGCTCCGGGTCGTTGTTGATTCCTCGCCCCACGACCCTTG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GACGATGTTAGGGGAGTGGGCGGTACGACATGCTTGGGTCGCTTATATCG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GCGCCAACCGCGCCTCGCGTCGGGTCGTTGTTGATTCCTCGCCTCACGAC
+                                                                             
+
+ERR12319363.1.3408167      ----------------------------------------------TCAT
+ERR12319363.4671060        CCTTGGACTTTTTGAGGGAGGGAGGCGGTGCGTCACGCTTGGGTCTTTAT
+                                                                         * **
+
+ERR12319363.1.3408167      ATATCGGCGCCAACCGCGCCTCGGCTTCGGGCCTTGTGGTTTCCCCGCCT
+ERR12319363.4671060        GTATCGGCGCCAACCGCGCCTCGGCTTCGGGCCTTGTGGTCTCCTCGTCC
+                            *************************************** *** ** * 
+
+ERR12319363.1.3408167      CAGGCCCTTGGACTTTCTGAGGTTAGGCGGCGGTGCGTCACGCTTGGTTC
+ERR12319363.4671060        CAGGCCCTTGGACTTTCTGAGGTTAGGCGGCGGTGCGTCACGCTTGGGTC
+                           *********************************************** **
+
+ERR12319363.1.3408167      CTCATATATCGGCGCCAACCGCGCCTCGGCTTCGGGCCTTGTGGTCTCCT
+ERR12319363.4671060        TTACTATATCGGCGCCAACCGCGCCTCGGCTTCGGGCCTTGTGGTTTCCC
+                            *  ***************************************** *** 
+
+ERR12319363.1.3408167      CGTCCCAGGCCCTTGGACTTTCTGAAGTTAGGCGGCGGTGCGACAAGCTT
+ERR12319363.4671060        CGCCCCAGGCCCTTGGACTTTCTGAAAGAAAGCGGTGGTACGACAAGCTT
+                           ** ***********************   * **** *** **********
+
+ERR12319363.1.3408167      GGTTCCCTATGTATCGGCGCCAACCGCGCCTCGGCTTCGGGCCTTGTGGT
+ERR12319363.4671060        GGTTCCTTATATATCGGCGCCAACCGCGCCTCGCGTCGGGTCGTTGTTGA
+                           ****** *** **********************  *  ** * **** * 
+
+ERR12319363.1.3408167      CTCCCTGCCCCA-GGCCCTTGGACTTTCCGAAGGAAAGCGGCGGTGTGAC
+ERR12319363.4671060        TTCCTCGCCTCACGACCCTTGGACTTTCAGAGGTAAGAAGGCGGTGCGTC
+                            ***  *** ** * ************* ** * **   ******* * *
+
+ERR12319363.1.3408167      AAGCTTGGGTCGCTCGTATCGGCGCCAACCGCGCCTCGCCCGGGCCGTTG
+ERR12319363.4671060        AAGCTTGGGTCGCTCGTATCGGCGCCAGCCGCGCCTCGCCCGGGTCGTTG
+                           *************************** **************** *****
+
+ERR12319363.1.3408167      TGGATTCCCCGCCCCACGGCCCTTTATTACCTGCGTGTCGTTGTTTGGTC
+ERR12319363.4671060        TTGATTCCTCGCCTCACGACCCTATATTACCTGCGGGTCGTTGTTTGGTC
+                           * ****** **** **** **** *********** **************
+
+ERR12319363.1.3408167      TGGTACGCTGGTATAGTAGCTTGGTTCTACAGGCTGGGCTTGTCGTTCCT
+ERR12319363.4671060        CGGCCCGCTGGTGCGGCGGCTTGGTCCCACAGGCTGGGCTTGTCGTCGTT
+                            **  *******   *  ******* * ******************   *
+
+ERR12319363.1.3408167      TGGTTCTACAGGCTTGGCTTAGGTCGTTG------GGCTTGTCGTTCCTT
+ERR12319363.4671060        TGGTTCTGTAGGCTTGGCTTAGGTCCATGTTTTCTAGCCTG-CGTTCTTA
+                           *******  ****************  **       ** ** ***** * 
+
+ERR12319363.1.3408167      GGTTCTGCAGGCTGGGT---TTG------TCGTCCCTTGGTTCA------
+ERR12319363.4671060        GGGCCTGCCGGCAAGGTCGCTTGGTTCACTTGCCCCTTGGCTGGCTGCTA
+                           **  **** ***  ***   ***      * * ******* *        
+
+ERR12319363.1.3408167      ----AGGTCCAGGTTTTCTAACCTTTGTTCTTAGGGCCTGCCGGCAAGGT
+ERR12319363.4671060        CCTTAGGTCCAGGTTTTCTAACTTTCGTTCTTAGCGCCTGTCGGCAAGAT
+                               ****************** ** ******** ***** ******* *
+
+ERR12319363.1.3408167      CGCTGCCTACTCTGTTCTAGGTCCAGGTTTTCCAGCCTTCG-----TTCT
+ERR12319363.4671060        CGCTGCCTGCTCTGTTCTAGGTCCATGTTTTCTAACCCTTGAAGGCTTCT
+                           ******** **************** ****** * ** * *     ****
+
+ERR12319363.1.3408167      TAAAGCCTGCTACCGC--CTTTGTAGCCTG--CTGTTTTAGGCCCATGTT
+ERR12319363.4671060        GTTAGTACACCAAGGTAGCTTGGTTGACTGGGCTGCAAAGGAGGAACGGC
+                              **    * *  *   *** ** * ***  ***     *    * *  
+
+ERR12319363.1.3408167      TTCTAGCCTGCATTCTTAGGCCCTGCCGGCAAGGTCGCTGCCTACTCTGT
+ERR12319363.4671060        TGGAGGCTTCTGTTAGTACACCAAAGTAACTTGGTTGAGTAGGCTGCAGT
+                           *    ** *   **  **  **       *  *** *         * **
+
+ERR12319363.1.3408167      TCTAGGTCCATGTTTTCCAGCCTGCTCTGAGTGCTTTTGTCCCCTTCCAG
+ERR12319363.4671060        AAAAAGCAGACCTAATAAGAGCGGCTCTAGCTAATAGGCCTCAAATGTAG
+                              * *   *  *  *     * *****   *  *      *   *  **
+
+ERR12319363.1.3408167      CCCTGACTGCTACCTTAGGTCCAGGTTTTCTAGCCTGCTCTGAGCGCTTT
+ERR12319363.4671060        CCCT--CTGAGGG-TGAGGATGAGGCTCTC---CTTACT-TAGGCCCCCA
+                           ****  ***     * ***   *** * **   * * ** *  ** *   
+
+ERR12319363.1.3408167      TGCCCCCTTCCAGCCCTGAGGCCTTGGCGGCTGCCACCTAGGTCCAGGTT
+ERR12319363.4671060        GAGAACCTAGGAAACCGGCGAGAGAAG-GGCTGCCAAAGGCAGGCCAAGC
+                                ***   *  ** * *      * ********        *     
+
+ERR12319363.1.3408167      TTCTAACCTTCGTAGTCTGTTCTGACTG-CCACCTAGG---TCCAGGTTT
+ERR12319363.4671060        TACTAGCCGCC-TAGGGGACCCCGGCAGACCAGTTAAGAGCCTTAAGTGC
+                           * *** **  * ***      * * * * ***  ** *      * **  
+
+ERR12319363.1.3408167      TCTAACCTTCG---TAGCCTGTTCTGACTGCCACCTTTGCCACCTGCTGT
+ERR12319363.4671060        TGAGAGTCCCGGGCTAAGTGGATGAAGCCGCCACAGGTGACAAAGAAGAG
+                           *   *    **   **    * *    * *****   ** **        
+
+ERR12319363.1.3408167      TCTAGGTCCATGTTTTCTAACCAGCTGGTGCCCTTGAGTGGTCTTAACTC
+ERR12319363.4671060        ACTTGAAAAGCGTGTGAAGACAAATGAAAGGCCTGGCCAACTCTGAACCC
+                            ** *      ** *    ** *      * *** *     *** *** *
+
+ERR12319363.1.3408167      TC-TGACTGCTTCTGCCCTCCAACCCTGCTGCCGCCT--TTGTAGCCTGC
+ERR12319363.4671060        CTGCTACTGCTACCAGGACTAAGCCAAGCTGACTACAAGTAGAAAGCCAC
+                                ****** *        * **  **** *  *   * * *  *  *
+
+ERR12319363.1.3408167      ----TGTTCTAGGTCCAGGTTTTCTAACCTTTGTGGCCTGCTGTTCTAGG
+ERR12319363.4671060        AAGACGCTTTGCATCCACTGCCTCTAACCCT----GCCCGCCCAGCCAAA
+                                * * *   ****     ******* *    *** **    * *  
+
+ERR12319363.1.3408167      TCCAGGTTTTCTAACCTTTGTAGCCTGCTTTTGTCCCCTTCCAGCCCTGT
+ERR12319363.4671060        AGAAGAAGCCCTCGCAAAGGAGAAGGGCCT--GCCGCCAGGAACGCCTAC
+                              **     **  *    *      ** *  * * **    *  ***  
+
+ERR12319363.1.3408167      TGGCTGCTACCACAGGTCCAGGTTTTCTAGCCAGCCGGTGCCCTTGAGTT
+ERR12319363.4671060        CCGGAGTCACAAACAGCCCCAGCTG-CCACCAAGGTAGAAGCGTGAAGCA
+                             *  *  ** *   * **  * *  * * * **   *   * *  **  
+
+ERR12319363.1.3408167      CTCTTAACCCTCTGACTGCCTTTGTCCC--CCTCCAGCCCTGAGGGCGGC
+ERR12319363.4671060        ACCTAGAGACAGGAGTAGGCCCTTCCATAGCCGCCGGCAGCCAGGGATG-
+                             **  *  *       * *  *  *    ** ** **    ****  * 
+
+ERR12319363.1.3408167      TGGCTCCCGGCTTTGTAGCCT--GCTCTGACTGCCT----------TTGT
+ERR12319363.4671060        -GAAGCCCAACTGAGCAGACTTAGCCCTGGAAGCCAAAGAAGAGAATCGT
+                            *   ***  **  * ** **  ** ***   ***           * **
+
+ERR12319363.1.3408167      CC-CCTTGAGTTGTCTTAACTCTCT------CTGACTGCTTTGAGTACTC
+ERR12319363.4671060        GTGCCTGGAGTCAACAGAACCCTCCAAAGGGCTCTCTGCCATGGACGAGC
+                              *** ****   *  *** ***       **  ****  **      *
+
+ERR12319363.1.3408167      TGCCCTGGCCACCCGCTGGGAGAAGCCATATTGGCTTTCCTCGTCGTTGA
+ERR12319363.4671060        CGCCTGTGCAGCCACCCAGAGAGAAGGAAAC--GTCTCCAGGGAGGTTAA
+                            ***   **  **  *  *    *   * *   *  * *   *  *** *
+
+ERR12319363.1.3408167      ACCTCTCCCGCTAGGAGAAGCCTGAAGGCTTTCCCCGCCGGCTGCTACCT
+ERR12319363.4671060        AGAACAGCCT-----GGAAGCCTGCTACCACTGCTCGTCGTCGAGTAGAC
+                           *   *  **       ********    *  * * ** ** *   **   
+
+ERR12319363.1.3408167      --------TAGGCCCATGTTTTCTTAACTCTCTGACTACTTTTGTCCCCT
+ERR12319363.4671060        CAAAGAGATAAGCAGATAAGAAGCCAGCCCCATGCC--CTCTCACCCAAT
+                                   ** **  **        * * *  ** *  ** *   **  *
+
+ERR12319363.1.3408167      CGGAGGTGCCTCCTTTA--AGCTTTGGGCCTCAGGGCTATAGGGCTTCTT
+ERR12319363.4671060        CAAAGGTAATACCGTCCCCAGCCACTACTGCTAGCCTCATAGAGAGAAA-
+                           *  ****    ** *    ***          **    **** *      
+
+ERR12319363.1.3408167      ATCTGACTCTTGCCCCTTGGCTGTGGCTAACAGGGATGGGTTTTAGTCTT
+ERR12319363.4671060        AAGTCTCTAGCGCCCCCAAAGCGCCGCCCGTACGGATCAACCGCCATATA
+                           *  *  **   *****      *  **    * ****         * * 
+
+ERR12319363.1.3408167      CTCCGTCAGCTCTGAGG----GCTTGGA-GCTCTCCTTCTTCTTCACAAC
+ERR12319363.4671060        CCACGCCCCAAAGGAGGACAGGCCCGGCCGTTCAGCAAGGGCTAAGAGAA
+                           *  ** *      ****    **  **  * **  *     **     * 
+
+ERR12319363.1.3408167      CGTATCTTTCTGCAGGGTA---CAAGGTTTTCCCTTTGGCTACTGTTTAG
+ERR12319363.4671060        CAGAACTAGTCAAGGGGAAGCCCAAAAATCGCCCAGAGTCCACCCCGCA-
+                           *  * **       *** *   ***   *  ***   * * **     * 
+
+ERR12319363.1.3408167      ATGGCGTACTTGGGGCCTGGCTTCTGTGGGCGC-TAGACCTCTTTTGGGC
+ERR12319363.4671060        AGACCACTCTAAGGCTGTTACACAGGTGGAAGAACAGACTAACAGAGGAA
+                           *   *   **  **   *  *    ****  *   ****       **  
+
+ERR12319363.1.3408167      CCTTCTTTGACTTGTGTTCCTCTGTTAGTCTGTTCTTCCACCTGTGTAAC
+ERR12319363.4671060        CACAAGTCAAAGAAGGGCCCAAAAGAGGTCTAG-CGCCCACAGAAGCCAG
+                           *     *  *     *  **       ****   *  ****    *  * 
+
+ERR12319363.1.3408167      AGCCTTAGAGTGGTCT-TGCGGGGTGGACTCTGGGCGATTTTTGGGCTTC
+ERR12319363.4671060        GCCCCAAGTACGCCATCTAAACAGTAGCCAAAGGGAAAACCTTG---TAC
+                             **  **   *   * *     ** * *   ***  *   ***   * *
+
+ERR12319363.1.3408167      CCCTTGACTAGTTCTGTTCTCTTAGCCCTTGCTGAACGGCCGGGCCTGTC
+ERR12319363.4671060        CCTGCAGAAAGATACGGTTGTGAAGAAGAAGGAGAGCT-CCAAGC----C
+                           **       ** *  * *     **     *  ** *  **  **    *
+
+ERR12319363.1.3408167      CTCCTTTGGGGCGTGGTATATGGCGGTTGATCCGTACGGGCGGCGCTTTG
+ERR12319363.4671060        CTCAGAGCTGACGGAGAAGACTAAAACCCATCCCTGTTAGCCACAGCCAA
+                           ***      * **  * * *         **** *    **  *      
+
+ERR12319363.1.3408167      GGGGCGCTAGAGACTTTTTCT-CTCTATGAGGCTAGCAGTAGTGGCTGGG
+ERR12319363.4671060        GGGGCAAGAGTCAGATAAGAAGCCCTATAGCCCTGAGGCCCAAAGCTT--
+                           *****   **  *  *      * ****    **          ***   
+
+ERR12319363.1.3408167      GACGGTATTACCTTTGATTGGGTGAGAG--GGCATGGGGCTGGCTTCTTA
+ERR12319363.4671060        AAAGGAGGCACCTCCGAGGGGACAAAAGTAGTCAGAGAGTTAAGAAAACA
+                            * **    ****  **  **   * **  * **  * * *        *
+
+ERR12319363.1.3408167      TCTGCTTATCTCTTTGGTCTACTCGACGACGAGCAGTGGTAGCAGGCTTC
+ERR12319363.4671060        TGGGCCTA--------AGGTAGCAGCCGGCGGGGAAAGCCTTCAGGCTTC
+                           *  ** **           **   * ** ** * *  *    ********
+
+ERR12319363.1.3408167      CA-----GGCTGTTCTTTAACCTCCCTGGAGAC--GTTTCCTTCTCTCTG
+ERR12319363.4671060        TCCTAGCGGGAGAGGTTCAACGACGAGGAAAGCCAATATGGCTTCTCCCA
+                                  **  *   ** ***  *   * *  *   * *   *    *  
+
+ERR12319363.1.3408167      GGTGGCTGCACAGGCGGCTCGTCCATGGCAGAGAGCCCTTTGGAGGGTTC
+ERR12319363.4671060        GCGGGTGGCCAGGGCAGAGTACTCAAAGCAGTCAG------AGAGAGTTA
+                           *  **  **   *** *      **  ****  **       *** *** 
+
+ERR12319363.1.3408167      TGTTGACTCCAGGCACACGATTCTCTTCTTTGGCTTCCAGGGCTAAGTCT
+ERR12319363.4671060        AGACAACTCAAGG-GGACAAA----------GGCAGTCAGAGC--AGGCT
+                            *   **** ***   ** *           ***   *** **  ** **
+
+ERR12319363.1.3408167      GCTCAGTTGGGCTTCCATC--CCTGGCTGCCGGCGGCTATGGAAGGGCCT
+ERR12319363.4671060        ACAAAGCCGGGAGCCAGCCGCCCTCAGGGCTGGAGG--GGGACAAAGGCA
+                            *  **  ***   *   *  ***    ** ** **    *  *  * * 
+
+ERR12319363.1.3408167      ACTCCTGTCTCTAGGTTGCTTCACGCTTCTACCTTGGTGGCAG-CTGGGG
+ERR12319363.4671060        GTCAGAGGGTTAAGAGAACTCAAGGGCACCGGCTGGCTAGAAAACCTGGA
+                                 *  *  **    **  * *   *   ** * * * *  *  ** 
+
+ERR12319363.1.3408167      CTGTTTGTGACTCCGGGTAGGCGTTCCTGGCGGCAG--GCCCTTCTCCTT
+ERR12319363.4671060        CCTGTGGTAGCAGCCAACAGGGCTGGAAGGGGACAAAAGCAGGCTACAAA
+                           *   * **  *  *    ***  *    ** * **   **      *   
+
+ERR12319363.1.3408167      TGCGAGGGCTTCTTCTTTTGGCTGGGCGGGC----AGGGTTAGAGGCAGT
+ERR12319363.4671060        GGTTAGAAAACCTGGACCTAGAACAGCAGGCCACAAAGGTTAGAAAACCT
+                            *  **     **     * *    ** ***    * *******     *
+
+ERR12319363.1.3408167      GGATGCAAAGCGTCTTGTGGCTTTCTACTTGTAGTCAGCTTGGCTTAGTC
+ERR12319363.4671060        GGACCTAGAACA----GCAGGCTACAAA--GGCGGCAGCAGGGTTGGAGG
+                           ***   * * *     *  *  * * *   *  * ****  ** *     
+
+ERR12319363.1.3408167      CTGGTAGCAGTAGCAGGGGTTCAGAGTTGGCCAGGCCTTTCATTTGTCTT
+ERR12319363.4671060        GCAGAAGCAGTCAGAGAG-TTAAGACCACTCAAGGGCACCAGCTGGTTAG
+                              * ******   ** * ** ***     * *** *      * **   
+
+ERR12319363.1.3408167      CACACGCTTTTCAAGTCTCTTCTTTGTCACCTGTGGCGGCTTCATCCACT
+ERR12319363.4671060        AAAACATGGACCTAGAACAGCAGGTGGCAAAGGTGGCAGTCAGAACAGGC
+                            * **      * **         ** **   ***** *    * *    
+
+ERR12319363.1.3408167      TAGCCCGGGACTCTCAGCACTTAAGGCTCTTAACTGGTCTGCCGGGGTCC
+ERR12319363.4671060        TA---CGAAGGTTAGAAAACCTGGA---CCTAGGTGG-CAGTCAGAACAG
+                           **   **    *   *  ** *      * **  *** * * * *     
+
+ERR12319363.1.3408167      CCTA-GGCGGCTAGTAGCTTGGCCTGCCTTTGGCAGCC-CTTCTCTCGCC
+ERR12319363.4671060        ACTACGAAGGTTAGAAAACCTGGACCTAGGTGGCAGCCGCCAAGGCCTCA
+                            *** *  ** *** *     *        ******** *      * * 
+
+ERR12319363.1.3408167      GGTTTCCTAGGTTCTCTGGGGGCCTA-AGTAAG---GAGAGCCTCATCCT
+ERR12319363.4671060        GGGCTGGAAGGGGGCAAAAGCGCTCAGAGCAGGCTAGAAAACCTGGACCT
+                           **  *   ***        * **  * ** * *   ** * ***   ***
+
+ERR12319363.1.3408167      CACCCT-CAG--AGGGCTACATTTGAGGCCTATTAGCTAGAGCCGCTCTT
+ERR12319363.4671060        AAGGTAGCAGTCAGGGCTGGAAGGGGACAAAAGCACTCAGAGCAGGCTGG
+                            *     ***  ******  *   *      *  *   ***** *     
+
+ERR12319363.1.3408167      ATTAGGTCTGCTTTTTACTGCAGCCTACTCAACCAAGTTACTTTGGTGTA
+ERR12319363.4671060        AAAACATGGACCTAGAACAGAGTAGGCAGCGACCTTGCCGGCAGGGCCTA
+                           *  *  *   * *   ** *         * ***  *       **  **
+
+ERR12319363.1.3408167      CTAACAGAAGCCTCCAGCCGTTCCTCCTTTGCAGCCCAGTCAACCAAGCT
+ERR12319363.4671060        AGAATGCAGGCTAGAAAACATGGGCCTAAAACAG--CAGGCTACAAAG--
+                             **   * **    *  * *    *     ***  *** * ** ***  
+
+ERR12319363.1.3408167      ACCTTGGTGTACTAACAGAAGCCTTCAAGGGTTAGAAAACATGGACCTAG
+ERR12319363.4671060        GCGGTAGCAGGCTTTAAGAA-----CGAAGGCTGGAAAACCTGGACCTAG
+                            *  * *    **   ****     * * ** * ****** *********
+
+ERR12319363.1.3408167      AACAGAGCAGGCAGCGATCTTGCCGACAGGCGCTAAGAACGAAAGTTAGA
+ERR12319363.4671060        AACAGAGTAGGCAGCGACCTTGCCGGCAGGCCCTAAGAACAAAGGTTAGA
+                           ******* ********* ******* ***** ******** ** ******
+
+ERR12319363.1.3408167      AAACCTGGACCTAAGGTAGCAGCCAGCCAAGGGGCAAGTGAACCAAGCGA
+ERR12319363.4671060        AAACCTGGACCTTG----------AACCAAGGGACGA------CAA---A
+                           ************            * ******* * *      ***   *
+
+ERR12319363.1.3408167      CCTTGCCGGCAGGCCCTAAGAACG-CAGGCTAGAAAACATGGACCTAAGC
+ERR12319363.4671060        CCCAGCCTGCAGAACCAAGGAACGACAAGCC------CAACGACCTAAGC
+                           **  *** ****  ** * ***** ** **       **  *********
+
+ERR12319363.1.3408167      CAAGCCTACAGAACCAAACGACGACAAGCCCAGCCTGTGGGACCAAGCCG
+ERR12319363.4671060        CAAGCCTGTAGAACCAAGGAACGACAAGCCCAGCCTGTAGAACCAAGCTA
+                           *******  ********   ****************** * *******  
+
+ERR12319363.1.3408167      CCGCACCAGCGGG-------------------------------------
+ERR12319363.4671060        CTATACCAGCGTACCAGACCAAACAACGACACGCAGGTAATAAAGGGCCG
+                           *   *******                                       
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TGGGGCGGGGAATCCACAACGGCCCGGGCGAGGCGCGGTTGGCGCCGATA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        CGAGCGACCCAAGCTTGTCACACCGCCGCTTTCCTTCGGAAAGTCCAAGG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GCCTGGGGCAGGGAGACCACAAGGCCCGAAGCCGAGGCGCGGTTGGCGCC
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GATACATAGGGAACCAAGCTTGTCGCACCGCCGCCTAACTTCAGAAAGTC
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        CAAGGGCCTGGGACGAGGAGACCACAAGGCCCGAAGCCGAGGCGCGGTTG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GCGCCGATATATGAGGAACCAAGCGTGACGCACCGCCGCCTAACCTCAGA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        AAGTCCAAGGGCCTGAGGCGGGGAAACCACAAGGCCCGAAGCCGAGGCGC
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GGTTGGCGCCGATATATGAGGAACCAAGCATGACGCACCGCCTCCCTCCC
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TAATAAAGTCCAAGGGTCGTGAGGCGAGGAATCAACAACGACCCGACGCG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        AGGCGCGGTTGGCGCCGATACATAAGGAACCAAGCATGACGCACCGCCTC
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        CCTCCCCCTGAAAGTCCAAGGGTCGTGAGGCGAGGAATCAACAACGACCC
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GGAGCGAGGCGCGGTTGGCGCCGATACGGTCGACCCAAGCATGACGCACC
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GCCTACCACCCTCTGAAAGTCCAAGGGCGCCGGCGGCGTGTGGTACGCCG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GGCCCGACGCGAGGCGCTGATACCAAGAGGCCAGCGCCGCCTAGAGCCAA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GCATTCTGCGGCCGGGTTATTAGGCCGCAGTGACTTCTGACCTTTTTTTT
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TTTTTTTTTTTTTTTTTTTACCATTACTCTCCAGCACGGCAGCACCTTGA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GAAATGTCAACGCGACAATATCGTAGTTGGGTTCGAACAGCAACTCGTCG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        AAGGAACGAAACTGGTGCAACTGCTGTTGCGACCCAGCCCCTACTGCTCA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TCTGGATTTGGAAGCTGGTGATAATGAACGTGCGCCACCTGTTGCACAGA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        AGCCTGCATTTTACATCCATGAAGTCAAGCAACGAGTGATGAGTATGTTT
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        CCTGATATTGAGGAGCATTATCTGGAAGATCTGATCAATACGCACTGAGA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TGATTTTGCTAATCGAGTGTGTAACTATCTGTTAGAACATTCTGGTTTTC
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        CTTGTAATCCGTCCACGAAGAAAAAGAAGGCGGTGGCTGCATCAGGTGCT
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GCTATTGACTACAGTACTTGAAAGATGGCAGATGACTGGATATGCATATG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TGTAATGGTGATAATCGGTTGTTGCTCTCTGATTTCCCATAAGTTGCGGC
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TGCCTCCTTTAAACCGTCTTGAAGCAATACAGTCACCATTACAGCTCGCC
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TGCATGGCTGATGCCAGTGATGGCTGTGACTCAACAATCATGAAGAGCCA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        ACTGCGAAATGCACCGGCTGAAGATGTGCTGAGCAAATATGACGAGCGTG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TGCAGGAGGAGTCAATTCGACTTGCTGAGATGGCTGGACTTGTGCAGTGT
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        CCGTTCTGTGAATTCAAGGAGCTGATGGCACCCGACGATAAGGTGTTCCG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        CTGTGCTAATGATGCCCATCTGAAGGGATCATGCTGCTATTGACACGAAA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        ACGTCACTGCTGTGCGCCATGTTGTGAACTCTCTGAGATTCGCTAAAATG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TCAGGATCGAACGACCACACGCCACGAGGACAATTATTTACTCTTCAACA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GTATATTTCACTTGATCGAATATAACAACTAAAACTAATAACACCAGCTA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TTTATAGCATGCAAAAACAGCGTACATCCAAAAAAACATACGCATATAAA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        ACAGGACATAACAGCTCTATACGGTAAAAAACCGCACACAGCGCATATAA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        CGTAGCCATGCAGGAAACATCAGCGGTATGTCGGAGTCGAGATACAACAT
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TGCAACGAATTCAATGCCATACGCGCGAAGGCCTTTCCCACTTGAGAACC
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GGTGGTTTGCAACACGCCACGTGGTAACATGAGACGATCGTGAAAACCAG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TCCGGTGCTGGTTTGTGTGGAAGCTACCTACTTGCTTAACTGGTCATGTG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TAGCGAACTCTAATACGTCACAAAGACTTTGTGACCCCCCCCCCCGCGTA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        ATTAGTTTCATACGCAGAAGCTAAACTAATCTGCACTGGGTGATTAATTA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        ACCAGTTATATCTATGCACTTGTTCCTGGTGATGATGATGATTATGTTAA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TGTCATCAGTAACACAGTGTTCATTCAGTTCCGTCAACTACGATGGCGCC
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        ATGACTCCACTTTTATAACCGTTGGCAAGAGTACATGAGAACCATGTACT
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        CTTGCCGTTGGGCATGTTCAAAGTTGAGTTCAGAGGGTTAAGTAGCTTCA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GCACACAGCGATGTCGGCCACGGTGGTTTCTATTAAGTTCCTTATTGGAA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TAATTAATTTTAGTATCTCTTTTTCTTTTAGTGGTTGGTGTAGCCCCACA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GACCGTTTGGTAAGTGAAGATGTATGGATATAATAATTATTATAGAAGTG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        AAAGAGGTGGCGCTAGATTGGAACCTTCTGGTACACCGCATTTCATGGAG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        TGGGTGGTAGATGCATAGCTATCTAACTTGACTCGCATTTCTCTGTCAGA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        CAGATAACTCTCAAACCATGCGAGCGTAGTGGGAGTGACGAATCCTGAAA
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GAGAATCGAGTAAACTTTTAAAAGTGAACTACTTTATCGAAATCCTTGCG
+                                                                             
+
+ERR12319363.1.3408167      --------------------------------------------------
+ERR12319363.4671060        GAAGTCTAGGAACAAACAGTCAAAACTTGTCTGTGTTTCTAAACATCGTG
+                                                                             
+
+ERR12319363.1.3408167      -------------------------------
+ERR12319363.4671060        CTATTTCATGGGATAGGAGAATGAGCTGGGC
+                                                          

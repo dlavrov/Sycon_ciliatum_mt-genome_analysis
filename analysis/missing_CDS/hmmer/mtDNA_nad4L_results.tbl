@@ -1,0 +1,13 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      nad4L.hmm
+# Target file:     ../../data/Noah_mt-genome/ORFs/longest_orfs.pep
+# Option settings: hmmsearch --tblout mtDNA_nad4L_results.tbl nad4L.hmm ../../data/Noah_mt-genome/ORFs/longest_orfs.pep 
+# Current dir:     /Users/dlavrov/GitHub/Projects/Calcaronea-mt-genome-evolution/Sycon-ciliatum_mt-genome_analysis/analysis/missing_CDS
+# Date:            Mon Jul 14 03:09:13 2025
+# [ok]

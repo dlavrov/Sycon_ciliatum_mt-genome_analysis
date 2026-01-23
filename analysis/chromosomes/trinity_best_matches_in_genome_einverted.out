@@ -1,0 +1,70 @@
+
+ERR12319363.1.1657860: Score 58: 22/24 ( 91%) matches, 0 gaps
+     212 agcctgccggcaaggtcgctgcct 235     
+         ||||||||||||||| ||||| ||
+    2197 tcggacggccgttccggcgaccga 2174    
+
+Contig38: Score 92: 84/112 ( 75%) matches, 4 gaps
+    1573 cctcggcattaggactggccagctcgcaggagccccttcctttgccaactctggcaccttttggcg-gggttgtccaaagaggggtttttcgttttgttcggcacctctgagctct 1687    
+         ||| |||||||||  ||| | | ||  | ||||||||||||||||||||| |||   |||| |  | || | || ||  ||  |||||||||| |  | ||||| | |||| | ||
+    3549 ggacccgtaatcc-aaccagccaagattgctcggggaaggaaacggttgaaacc-cagaaaccgacaccgatcacgtccct-gccaaaaagcagagaaggccgtcgggactggtga 3437    
+
+ERR12319363.1.4371402: Score 57: 31/40 ( 77%) matches, 0 gaps
+    1684 ccagccctgaggcctgctgttctaggtccaggttttctaa 1723    
+         || || || ||  ||| ||   ||||||||||||||||||
+    3592 ggacgagattcatgacaacctcatccaggtccaaaagatt 3553    
+
+Contig95: Score 62: 38/51 ( 74%) matches, 0 gaps
+    3449 gaggggtttttcgtctcttccgacagctctggggtctttggctgtggctag 3499    
+         || ||||||||||| |  |    || ||||| | |||||| |||||| |||
+    3995 cttcccaaaaagcaaaacaaatcgtggagactcgagaaactgacaccaatc 3945    
+
+Contig114: Score 251: 105/121 ( 86%) matches, 0 gaps
+    1618 ctttgtagcctgctttgagtactgctgttctaggtccaggttttctaacttgcgttcttagggcctgccggctatggagtccctagtgacaagggtggccgggcctcgcccgggccgtgat 1738    
+         |||||| ||||||||||||||||| ||   ||||||| ||||||| | | | ||||||||  |||| |||||| ||||||||||||| ||||||||| |||||||||||||||||||||||
+    3532 gaaacaccggacgaaactcatgacaaccgcatccagggccaaaaggtcggaagcaagaatttcggatggccgacacctcagggatcattgttcccactggcccggagcgggcccggcacta 3412    
+
+ERR12319363.1.6938770: Score 93: 35/38 ( 92%) matches, 0 gaps
+     418 taggtccaggttttctaacctgcgttcttagcgcctgc 455     
+         |||||||||||||||||||||||| | |||| ||||||
+    2288 atccaggtccaaaagattggacgccaaaatcccggacg 2251    
+
+Contig72: Score 128: 52/59 ( 88%) matches, 0 gaps
+    1644 cgttcttaaagcctgctgccgcctttgcagcctgctaccttaggtccaggttttctaac 1702    
+         |||||||| |||||||||||||| ||| ||||||||    |||||||||||||||||||
+    3641 gcaagaatctcggacgacggcgggaacatcggacgacaagatccaggtccaaaagattg 3583    
+
+ERR12319363.1.3615090: Score 92: 36/40 ( 90%) matches, 0 gaps
+    1366 taggtccatgttttctaacctacggtcttagagcctgctg 1405    
+         ||||||||||||||||||||| |  |||||||| ||||||
+    3233 atccaggtacaaaagattggaagtaagaatctcagacgac 3194    
+
+ERR12319363.1.1582962: Score 92: 36/40 ( 90%) matches, 0 gaps
+    1821 taggtccatgttttctaacctacggtcttagagcctgctg 1860    
+         ||||||||||||||||||||| |  |||||||| ||||||
+    3686 atccaggtacaaaagattggaagtaagaatctcagacgac 3647    
+
+ERR12319363.1.5618836: Score 107: 41/45 ( 91%) matches, 0 gaps
+     893 gctgccgcctttgtagcctgctgttctaggtcccggttttctaac 937     
+         ||||||| ||||  ||||||||||||||||||| |||||||||||
+    2820 cgacggccgaaatgtcggacgacaagatccaggtccaaaagattg 2776    
+
+Contig89: Score 55: 25/30 ( 83%) matches, 0 gaps
+    1715 actggaggcctaggtccatgttttccagcc 1744    
+         ||||  ||| ||||||||||||||| | ||
+    3663 tgacaaccgcatccaggtacaaaagattgg 3634    
+
+Contig1: Score 105: 39/42 ( 92%) matches, 0 gaps
+    1532 ctgccctgttctaggtccatgttttccaaccctcgtagcctg 1573    
+         |||| ||||||||||||||||||||| |||||||||| ||||
+    3342 gacgcgacaagatccaggtacaaaagattgggagcattggac 3301    
+
+ERR12319363.1.3408167: Score 84: 36/42 ( 85%) matches, 0 gaps
+    1096 ctgttctaggtccaggttttctaacctttgtagcctgctttt 1137    
+         |||||||||||||| ||||||||||| ||| || || || ||
+    2891 gacaagatccaggtacaaaagattgggaacttccgaagacaa 2850    
+
+ERR12319363.1.4671060: Score 84: 36/42 ( 85%) matches, 0 gaps
+    3458 ctgttctaggtccaggttttctaacctttgtagcctgctttt 3499    
+         |||||||||||||| ||||||||||| ||| || || || ||
+    5253 gacaagatccaggtacaaaagattgggaacttccgaagacaa 5212    

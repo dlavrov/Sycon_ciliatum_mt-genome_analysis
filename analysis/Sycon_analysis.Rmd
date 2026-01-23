@@ -1,0 +1,103 @@
+---
+title: "Sycon_mtDNA_analysis"
+output: pdf_document
+date: "2025-05-20"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+## Looking at the sequencing depth
+### OBSOLETE: PacBio data
+```{r}
+getwd()
+depth_mt <- read_table(file="../analysis/coverage/all_mean_coverage.tsv",col_name = c("chr"))
+View(depth_mt)
+summary(depth$totalAvgDepth)
+
+ggplot(data = depth) + geom_density(mapping = aes(x=log10(totalAvgDepth)), fill="blue")
+```
+
+### Illumina coverage
+```{r}
+depth_mt <- read_table(file="../analysis/coverage/all_mean_coverage.tsv",col_names = c("chr","coverage"))
+depth_mt <- depth_mt %>% mutate(Contig = grepl("^Contig", chr))
+summary(depth_mt$coverage)
+
+
+ggplot(data = depth_mt) + geom_density(mapping = aes(x=log10(coverage), fill=Contig), alpha=0.3) + theme_classic() + scale_fill_grey()
+```
+
+
+## Calculating nucleotide composition statistics for mitochondrial genome
+
+```{r}
+getwd()
+composition <- read_tsv(file="./assembly-stat/genes_repeats_combined.tsv",col_names = c("chr","length", "A", "C", "G", "T", "2", "3", "4", "CpG", "tv", "ts", "set")) %>% select(chr:T,set)
+composition <- composition %>% mutate(AT = (A+T)/length, GC=(G+C)/length, ATskew=abs((A-T)/(A+T)), GCskew = abs((G-C)/(G+C)))
+composition <- composition %>%
+  mutate(
+    gene_hit = if_else(str_sub(set, 1, 1) == "g", "cds", "no cds"),
+    contig   = if_else(str_sub(set, 2, 2) == "c", "contig", "singlet")
+  )
+View(composition)
+summarise(composition,mean_length=mean(length), median_length=median(length),min_length=min(length), max_length=max(length),meanGC=mean(GC),sdGC=sd(GC),meanATskew=mean(ATskew),meanGCskew=mean(GCskew))
+
+by_set <- group_by(composition, set)
+summarise(by_set,n_rows=n(),mean_length=mean(length),median_length=median(length),sd_length=sd(length), meanGC=mean(GC),sdGC=sd(GC),meanATskew=mean(ATskew),meanGCskew=mean(GCskew))
+```
+
+## Calculating similar statistics for random sequences in the genome
+```{r}
+composition_all <- read_tsv(file="./assembly-stat/ERR12319363_10K.tsv",col_names = c("chr","length", "A", "C", "G", "T", "2", "3", "4", "CpG", "tv", "ts")) %>% select(chr:T)
+composition_all <- composition_all %>% mutate(AT = (A+T)/length, GC=(G+C)/length, ATskew=abs((A-T)/(A+T)), GCskew = abs((G-C)/(G+C)))
+summarise(composition_all,mean_length=mean(length), median_length=median(length),min_length=min(length), max_length=max(length),meanGC=mean(GC),sdGC=sd(GC),meanATskew=mean(ATskew),meanGCskew=mean(GCskew))
+
+### Apparently, I have done this already?! This compares sequences rather than contigs/singlets
+length <- read_tsv(file="assembly-stat/length_comparison_random100K.tsv", col_names = c("length","type"))
+length %>%
+  group_by(type) %>%
+  summarise(
+    n_rows       = n(),
+    mean_length  = mean(length),
+    median_length= median(length),
+    sd_length    = sd(length),
+    peak_length  = {
+      dens <- density(length)
+      dens$x[which.max(dens$y)]
+    }
+  )
+
+
+
+
+```
+
+
+
+##Plotting chromosome lengths
+```{r}
+ggplot(data = length) + geom_density(mapping = aes(x=length, fill=type), alpha=0.3) + theme_classic() #+ scale_fill_grey()
+ggplot(data = composition) + geom_density(mapping = aes(x=length), fill="gray", alpha=0.3) + theme_classic() + facet_grid(gene_hit ~ contig)
+ggplot(data = composition) + geom_density(mapping = aes(x=length, fill=set), alpha=0.3) + theme_classic()
+ggplot(composition, aes(x = "", y = length)) + 
+  geom_violin(trim=FALSE,fill="gray") + 
+  geom_boxplot(width=0.1) +
+  theme_classic()
+composition %>% mutate(length.binned = between(length, 3500, 6500)) %>% ggplot() + geom_bar(mapping = aes(x=length.binned))
+```
+
+## Creating supplementary table with coverage by Illumina and by PacBio
+
+```{r}
+PacBio_coverage <- read_table(file="data/Noah_mt-genome/from_Noah/final_mito.depth.tsv")
+Illumina_coverage <-  read_table(file="nova/dna_coverage_07_25_trimmed/contig_mean_coverage.tsv",col_names = c("contigName","Illumina"))
+all_coverage <-  PacBio_coverage %>% 
+  select(contigName:totalAvgDepth) %>% 
+  inner_join(Illumina_coverage, by="contigName")
+colnames(all_coverage) = c("mt_chr","length","PacBio","Illumina")
+write_tsv(all_coverage,file="all_coverage.tsv")
+```
+

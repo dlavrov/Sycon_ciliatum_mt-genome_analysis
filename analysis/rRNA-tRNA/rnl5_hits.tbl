@@ -1,0 +1,16 @@
+# target name        accession  query name           accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+ERR12319363.2134559  -          new                  -                2     276    5185    4863    5186    4862    6911    -     2.1e-16   61.4   6.0  2134559 length=6911
+Contig317            -          new                  -                2     276     739     417     740     416   12041    -     2.4e-16   61.2   5.8  -
+ERR12319363.2558485  -          new                  -                2     276    8507    8829    8506    8830   11182    +     2.4e-16   61.2   5.8  2558485 length=11182
+ERR12319363.426554   -          new                  -                2     276   10375   10697   10374   10698   14411    +     2.4e-16   61.2   5.8  426554 length=14411
+#
+# Program:         nhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/dlavrov/GitHub/Tools/MFannot_data/models/HMM_models/RNA/5-rnl-other.hmm
+# Target file:     all-hits_cap_all.fa
+# Option settings: nhmmer --tblout rnl5_hits.tbl /Users/dlavrov/GitHub/Tools/MFannot_data/models/HMM_models/RNA/5-rnl-other.hmm all-hits_cap_all.fa 
+# Current dir:     /Users/dlavrov/GitHub/Projects/Calcaronea-mtDNA/Sycon_ciliatum_mt-genome_final/analysis/rRNA-tRNA
+# Date:            Thu Oct 23 13:04:38 2025
+# [ok]

@@ -1,0 +1,18 @@
+##gff-version 3
+ERR12319363.1.1657860	ORF_mapper	CDS	752	1365	.	+	0	ID=atp6;Name=atp6
+Contig38	ORF_mapper	CDS	1357	1571	.	+	0	ID=atp9;Name=atp9
+ERR12319363.1.4371402	ORF_mapper	CDS	1915	2949	.	+	0	ID=cob;Name=cob
+Contig95	ORF_mapper	CDS	1852	3212	.	+	0	ID=cox1;Name=cox1
+Contig114	ORF_mapper	CDS	2070	2710	.	+	0	ID=cox2;Name=cox2
+ERR12319363.1.6938770	ORF_mapper	CDS	897	1634	.	+	0	ID=cox3;Name=cox3
+Contig72	ORF_mapper	CDS	2033	2770	.	+	0	ID=cox3_2;Name=cox3_2
+ERR12319363.1.3615090	ORF_mapper	CDS	2039	2894	.	+	0	ID=nad1;Name=nad1
+ERR12319363.1.3615090	ORF_mapper	CDS	2039	2894	.	+	0	ID=nad1_2;Name=nad1_2
+ERR12319363.1.1582962	ORF_mapper	CDS	2493	3348	.	+	0	ID=nad1;Name=nad1
+ERR12319363.1.1582962	ORF_mapper	CDS	2493	3348	.	+	0	ID=nad1_2;Name=nad1_2
+ERR12319363.1.5618836	ORF_mapper	CDS	1840	2724	.	+	0	ID=nad2;Name=nad2
+Contig1	ORF_mapper	CDS	2104	3088	.	+	0	ID=nad4;Name=nad4
+ERR12319363.1.3408167	ORF_mapper	CDS	1648	2808	.	+	0	ID=nad5;Name=nad5
+ERR12319363.1.3408167	ORF_mapper	CDS	1648	2808	.	+	0	ID=nad5_2;Name=nad5_2
+ERR12319363.1.4671060	ORF_mapper	CDS	4010	5170	.	+	0	ID=nad5;Name=nad5
+ERR12319363.1.4671060	ORF_mapper	CDS	4010	5170	.	+	0	ID=nad5_2;Name=nad5_2

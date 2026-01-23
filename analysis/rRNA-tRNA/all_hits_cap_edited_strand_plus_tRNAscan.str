@@ -1,0 +1,649 @@
+Contig3.trna1 (701-754)	Length: 54 bp
+Type: Leu	Anticodon: TAG at 26-28 (726-728)	Score: 17.0
+         *    |    *    |    *    |    *    |    *    |   
+Seq: TGGTGAAGTGGTATCACGCTGGCCCTAGAAGCCAGAGGcTAGAGTCAACTTTTT
+Str: ..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>....<<<<..
+
+Contig177.trna1 (6162-6231)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (6192-6194)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+Contig196.trna1 (5360-5429)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 26.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<..
+
+Contig196.trna2 (8648-8575)	Length: 74 bp
+Type: Leu	Anticodon: GAG at 33-35 (8616-8614)	Score: 23.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCACAGTGGCTGGGTGGTAAGGAAgAGTGACTGAGATTCACAAGGtTGTGGGTTCAAAaaTCCCATCTTGTGTA
+Str: >>>>>>...>>.........<<....>>>>.......<<<<......>>>>>.........<<<<<<<.<<<<.
+
+Contig198.trna1 (2868-2816)	Length: 53 bp
+Type: Leu	Anticodon: TAG at 26-28 (2843-2841)	Score: 16.5
+         *    |    *    |    *    |    *    |    *    |  
+Seq: TGGTGAAGTGGTATCACGCTGGCCCTAGAAGCCAGAGGtTAGAGTCAACTTTT
+Str: ..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>....<<<<.
+
+Contig260.trna1 (3073-3018)	Length: 56 bp
+Type: Leu	Anticodon: TAG at 26-28 (3048-3046)	Score: 16.5
+         *    |    *    |    *    |    *    |    *    |    *
+Seq: TGGTGAAGTGGTATCACGCTGGCCCTAGAAGCCAGAGGtTAGAGTCAACTTTTCCT
+Str: ..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>....<<<<....
+
+Contig340.trna1 (3732-3661)	Length: 72 bp
+Type: Leu	Anticodon: CAA at 31-33 (3702-3700)	Score: 16.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: CATATGGTGCAGTGGTaTGTGCAGCTATTTCAAAAATTGaTAGGtTGCGGGTTCGATTCCCGaCAATTATGG
+Str: >>>>..>>>>........<<<<.>>.>>.......<<.<.<.....>>>>>.......<<<<.<...<<<<.
+
+Contig349.trna1 (8694-8626)	Length: 69 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 17.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *   
+Seq: CACCTTAGCTCAGTGATtAGAGCATCGCTGGcctcAAGCGAAGGtCCCTGGTTCGAATCCTGGTGGTGA
+Str: >>>>...>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<.<<<<.
+
+Contig352.trna1 (14584-14511)	Length: 74 bp
+Type: Leu	Anticodon: GAG at 33-35 (14552-14550)	Score: 23.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCACAGTGGCTGGGTGGTAAGGAAgAGTGACTGAGATTCACAAGGtTGTGGGTTCAAAaaTCCCATCTTGTGTA
+Str: >>>>>>...>>.........<<....>>>>.......<<<<......>>>>>.........<<<<<<<.<<<<.
+
+Contig352.trna2 (10868-10805)	Length: 64 bp
+Type: Ser	Anticodon: GCT at 28-30 (10841-10839)	Score: 16.0
+         *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: CATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGT
+Str: >>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<..
+
+Contig352.trna3 (10587-10518)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (10557-10555)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+Contig352.trna4 (10303-10234)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (10273-10271)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+Contig352.trna5 (10019-9950)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (9989-9987)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+Contig406.trna1 (2156-2209)	Length: 54 bp
+Type: Leu	Anticodon: TAG at 26-28 (2181-2183)	Score: 17.0
+         *    |    *    |    *    |    *    |    *    |   
+Seq: TGGTGAAGTGGTATCACGCTGGCCCTAGAAGCCAGAGGcTAGAGTCAACTTTTT
+Str: ..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>....<<<<..
+
+ERR12319363.2386098.trna1 (5938-6009)	Length: 72 bp
+Type: Cys	Anticodon: GCA at 33-35 (5970-5972)	Score: 70.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGGCATATAGCTCAGTGGTAGAGCATTCGACTGCAGATCGAGAGGtCCTTGGTTCAACTCCGAGTGTGCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+ERR12319363.74555.trna1 (6418-6366)	Length: 53 bp
+Type: Lys	Anticodon: CTT at 22-24 (6397-6395)	Score: 18.9
+         *    |    *    |    *    |    *    |    *    |  
+Seq: TGGTCGGTAGAGCATGAGACTCTTAATCTCAGGGtCGTGGGTTCGAGCCCCAC
+Str: .>.>>....<<.<.>>>>>.......<<<<<.....>>>>>.......<<<<<
+
+ERR12319363.3554096.trna1 (1729-1800)	Length: 72 bp
+Type: Met	Anticodon: CAT at 32-34 (1760-1762)	Score: 26.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCCATAGCTCAGTAGTtAGAGCATGGCTCATGACAAaCAAGGtCCCGGGTTGGAGTCCTGGTGGGTCTC
+Str: >>.>>>>..>>>>........<<<<.>>>.......<...<<.....>>>>>.......<<<<<<<<<.<<.
+
+ERR12319363.1274735.trna1 (1156-1225)	Length: 70 bp
+Type: Cys	Anticodon: ACA at 34-36 (1189-1191)	Score: 20.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATcgCTGGCTACAAGCAAGAGTCCCTGGTTCGATTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>..>>.>.......<.<<<...>>.>>.......<<.<<<<<<<..
+
+ERR12319363.1277313.trna1 (6709-6785)	Length: 77 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 24.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: CACCATAGCTCAGTGGTtAGAGTATCGCTGgCTACAacttacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>..............<<<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.1277313.trna2 (9923-9854)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 20.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAGGGtCCCTGGTTCGAGTCCTGGCGGTGAC
+Str: >>>>...>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<.<<<<..
+
+ERR12319363.1277313.trna3 (9357-9288)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 28.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAGGGtCCCTGGTTCGAATCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.4749784.trna1 (13541-13467)	Length: 75 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 24.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: GCTGcaCCATAGCTCAGTGGTtAGAGCATCGCTGGcctcAAGCGAAGGtCCCTGGTTCGAGTCCTGGTGGTAACA
+Str: >.>>..>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<.<.
+
+ERR12319363.1293349.trna1 (460-408)	Length: 53 bp
+Type: Leu	Anticodon: TAG at 26-28 (435-433)	Score: 16.5
+         *    |    *    |    *    |    *    |    *    |  
+Seq: TGGTGAAGTGGTATCACGCTGGCCCTAGAAGCCAGAGGcTAGAGTCAACTTTT
+Str: ..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>....<<<<.
+
+ERR12319363.4814895.trna1 (11377-11449)	Length: 73 bp
+Type: Ser	Anticodon: GGA at 34-36 (11410-11412)	Score: 37.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: TCCCCGGTAGCCTAATCGGTAGGGCACTGTCCCGGAAAGACAGGGGTGCtGGGTTCGAATCCCGCTCGTGGAT
+Str: >>>.>>>..>>>>........<<<<.>>>>>.......<<<<<....>>.>>>.......<<<<<<<<.<<<.
+
+ERR12319363.4814895.trna2 (11272-11198)	Length: 75 bp
+Type: Ser	Anticodon: GGA at 34-36 (11239-11237)	Score: 30.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: TCCCCGGTAGCCTAATCGGTAGGGCACTGTCCCGGAAaaAGACAGGGGTGCtGGGTTCGAATCCCGCTCGTGGAT
+Str: >>>.>>>..>>>>........<<<<.>>>>>.........<<<<<....>>.>>>.......<<<<<<<<.<<<.
+
+ERR12319363.4814895.trna3 (11053-10979)	Length: 75 bp
+Type: Ser	Anticodon: GGA at 34-36 (11020-11018)	Score: 30.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: TCCCCGGTAGCCTAATCGGTAGGGCACTGTCCCGGAAaaAGACAGGGGTGCtGGGTTCGAATCCCGCTCGTGGAT
+Str: >>>.>>>..>>>>........<<<<.>>>>>.........<<<<<....>>.>>>.......<<<<<<<<.<<<.
+
+ERR12319363.4814895.trna4 (10433-10364)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (10403-10401)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.3671514.trna1 (1727-1797)	Length: 71 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 18.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAAGGtCCCTGGTtTTGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>........<<.<<<<<<<..
+
+ERR12319363.3671514.trna2 (5543-5618)	Length: 76 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 29.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GGTCCCATAGCTCAGTGCTtAGAGAATTGCTCaTGCATggcAAGCAGGGTCCCAGGTTCGAGTCCTGGTGGGTCTG
+Str: >>.>>>>...>>>........<<<..>>>>>...........<<<<<....>>>>>.......<<<<<<<<<.<<.
+
+ERR12319363.3671514.trna3 (6029-6100)	Length: 72 bp
+Type: Met	Anticodon: CAT at 32-34 (6060-6062)	Score: 42.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCCATAGCTCAGTGGTtAGAGCATTGCTCATGACAAGcAGGGtCCCAGGTTCGAGTCCTGGTGGGTCTG
+Str: >>.>>>>..>>>>........<<<<.>>>.......<<...<.....>>>>>.......<<<<<<<<<.<<.
+
+ERR12319363.3671514.trna4 (7470-7541)	Length: 72 bp
+Type: Met	Anticodon: CAT at 32-34 (7501-7503)	Score: 42.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCCATAGCTCAGTGGTtAGAGCATTGCTCATGACAAGcAGGGtCCCAGGTTCGAGTCCTGGTGGGTCTG
+Str: >>.>>>>..>>>>........<<<<.>>>.......<<...<.....>>>>>.......<<<<<<<<<.<<.
+
+ERR12319363.3671514.trna5 (7318-7247)	Length: 72 bp
+Type: Met	Anticodon: CAT at 32-34 (7287-7285)	Score: 37.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCCATAGCTCAGTGGTtAGAGCATTGATCATGACAAGcAGGGtCCCAGGTTCGAGTCCTGGTGGGTCTG
+Str: >>.>>>>..>>>>........<<<<.>>>.......<<...<.....>>>>>.......<<<<<<<<<.<<.
+
+ERR12319363.3671514.trna6 (7008-6939)	Length: 70 bp
+Type: Ser	Anticodon: TGA at 33-35 (6976-6974)	Score: 22.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: GTCCCATAGCTCACTGGTtAGAGCACTGCTCATGACAAGCAGGGTCCCAGGTTCGAGTCCTGGGGGGTCT
+Str: >.>>>...>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<.<<<.<.
+
+ERR12319363.3671514.trna7 (6700-6631)	Length: 70 bp
+Type: Ser	Anticodon: TGA at 33-35 (6668-6666)	Score: 22.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: GTCCCATAGCTCACTGGTtAGAGCACTGCTCATGACAAGCAGGGTCCCAGGTTCGAGTCCTGGGGGGTCT
+Str: >.>>>...>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<.<<<.<.
+
+ERR12319363.3671514.trna8 (6392-6323)	Length: 70 bp
+Type: Ser	Anticodon: TGA at 33-35 (6360-6358)	Score: 34.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: GTCCCATAGCTCACTGGTtAGAGCACTGCTCATGACAAGCAGGGTCCCAGGTTCGAGTCCTGGTGGGTCT
+Str: >.>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<.<.
+
+ERR12319363.3671514.trna9 (5863-5792)	Length: 72 bp
+Type: Met	Anticodon: CAT at 32-34 (5832-5830)	Score: 32.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCCATAGCTCAGTGGTtAGAACATTGCTCATGACAAGcAGGGtCCCAGGTTCGAGTCCTGGTGGGTCTG
+Str: >>.>>>>..>.>>........<<.<.>>>.......<<...<.....>>>>>.......<<<<<<<<<.<<.
+
+ERR12319363.1392432.trna1 (5464-5395)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (5434-5432)	Score: 17.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTgACAGCATCGCTGGCTAcaAGCGAGGAtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>..........<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.2571593.trna1 (9148-9079)	Length: 70 bp
+Type: Cys	Anticodon: ACA at 34-36 (9115-9113)	Score: 20.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCccTAGCTACAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>....>.......<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.1418971.trna1 (1916-1985)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (1946-1948)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.6060984.trna1 (14122-14000)	Length: 123 bp
+Type: Phe	Anticodon: AAA at 35-37 (14088-14086)	Score: 28.9
+Possible intron: 39-83 (14084-14040)
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GGCAAGGTGGCGGAATTGGTaGACGATAATATGTAAAAagtcttaagcatacccgcaaataaaaagcggatggtaacataaaaAAAATAAGACTATtTGCAGGTTCGAATCCTGTCCTTGCCA
+Str: >>>>>>>...>>...........<<...>>.>....................................................<.<<..........>>>>>.......<<<<<<<<<<<<.
+
+ERR12319363.4902913.trna1 (2258-2187)	Length: 72 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 24.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTGCCATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGACA
+Str: >>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<.<<.
+
+ERR12319363.1473283.trna1 (8694-8767)	Length: 74 bp
+Type: Asn	Anticodon: GTT at 35-37 (8728-8730)	Score: 68.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GTCTCCGTGGCGCAATCGGTtAGCGCGTTCGGCTGTTAACCGAAAGGtTGGTGGTTCAAGCCCACCCGGGGACG
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+ERR12319363.1473283.trna2 (9392-9321)	Length: 72 bp
+Type: Glu	Anticodon: TTC at 34-36 (9359-9357)	Score: 66.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TCCCATATGGTCTAGTGGTtAGGATTTCTGGTTTTCACCCAGACGGCCCGGGTTCAATTCCCGGTGTGGGAA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+ERR12319363.1477314.trna1 (1990-2063)	Length: 74 bp
+Type: Ile	Anticodon: GAT at 35-37 (2024-2026)	Score: 57.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: AGGTtTTGTAGCTTAGTGGTtAAAGCGCATGCTTGATAAGCATGAGAcCGTGTGTTCGATTCCCATCAAGCCTA
+Str: >>>>.>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>.>.......<.<<<<<<<<<<.
+
+ERR12319363.1477314.trna2 (2068-2141)	Length: 74 bp
+Type: Met	Anticodon: CAT at 35-37 (2102-2104)	Score: 60.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: AGCAGGGTGGAGAAGTCaGGTATCTCGCTAGGCTCATAATCTAGAGAaCATAGGTTCAAATCCTATCTCTGCTC
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+ERR12319363.1477314.trna3 (5466-5540)	Length: 75 bp
+Type: Lys	Anticodon: TTT at 34-36 (5499-5501)	Score: 56.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: GCCGCATTAGCTCAGTAGGTAGAGCAACTGTTTTTTGtaAACAGTCGGtCACCTGTTCGAATCAGGTATACGGCA
+Str: >>>>.>>..>>>>........<<<<.>>>>>.........<<<<<.....>>>>>.......<<<<<<<.<<<<.
+
+ERR12319363.1477314.trna4 (4876-4802)	Length: 75 bp
+Type: Arg	Anticodon: ACG at 36-38 (4841-4839)	Score: 50.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: GCGCTTGTAGTTTAACGGAtaaAAAATTTCAGACTACGGTTCTGAAGAcTGGGAGTTCGATTCTTCCCAAGCGCT
+Str: >>>>>>>..>>>>..........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+ERR12319363.4931542.trna1 (3273-3345)	Length: 73 bp
+Type: Ser	Anticodon: CGA at 35-37 (3307-3309)	Score: 32.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: CATACTGTAGCTCAGTTGGTtAGAGCATTGCTCGCGAATAGCAAGGTCCCTGGTTCGAGTCCCGGTGGTGTGA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>.>>.......<<.<<<<<<<<<.
+
+ERR12319363.4931542.trna2 (2849-2777)	Length: 73 bp
+Type: Ser	Anticodon: CGA at 35-37 (2815-2813)	Score: 32.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: CATACTGTAGCTCAGTTGGTtAGAGCATTGCTCGCGAATAGCAAGGTCCCTGGTTCGAGTCCCGGTGGTGTGA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>.>>.......<<.<<<<<<<<<.
+
+ERR12319363.4931542.trna3 (2475-2403)	Length: 73 bp
+Type: Ser	Anticodon: CGA at 35-37 (2441-2439)	Score: 32.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: CATACTGTAGCTCAGTTGGTtAGAGCATTGCTCGCGAATAGCAAGGTCCCTGGTTCGAGTCCCGGTGGTGTGA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>.>>.......<<.<<<<<<<<<.
+
+ERR12319363.4931542.trna4 (2101-2029)	Length: 73 bp
+Type: Ser	Anticodon: CGA at 35-37 (2067-2065)	Score: 32.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: CATACTGTAGCTCAGTTGGTtAGAGCATTGCTCGCGAATAGCAAGGTCCCTGGTTCGAGTCCCGGTGGTGTGA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>.>>.......<<.<<<<<<<<<.
+
+ERR12319363.3862822.trna1 (11749-11676)	Length: 74 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 42.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGGGGACTAGCTCACATGGTAGAGCGCTCGCCtTAGCATGCGAGAGGtACCGGGATCGATACCCGGGTTCTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>........<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+ERR12319363.1625422.trna1 (1326-1395)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 28.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGTTAGctacAAGCGAAGGtCCCTGGTTCAAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.3901600.trna1 (4966-4897)	Length: 70 bp
+Type: Met	Anticodon: CAT at 31-33 (4936-4934)	Score: 17.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: GTCCgAGCAAGATCGGTAGAGCATGAGACTCATAATCTCAGGGtCGTGGGTTCGAGCCCCGAGTTGGGCG
+Str: >>>>.>>>..>.>>....<<.<.>>>>>.......<<<<<......>>>>.......<<<<.<<<<<<<.
+
+ERR12319363.3979253.trna1 (6182-6252)	Length: 71 bp
+Type: Gly	Anticodon: GCC at 33-35 (6214-6216)	Score: 65.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCATTGGTGGTTCAGTGGTAGAATCCTCGCCTGCCACGCGGGGGGCCCGGGTTCGATTCCCGGCCAATGCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+ERR12319363.5129881.trna1 (3986-4059)	Length: 74 bp
+Type: Met	Anticodon: CAT at 34-36 (4019-4021)	Score: 22.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: TGGTcCCATAGCTCAGATGGTtAGAACATTGCTCATGACAAGcAAGGtCCCGGGTTCGAGTCCTGGTGGATCTG
+Str: .>>>.>>>..>.>>.........<<.<.>>>.......<<...<.....>>>>>.......<<<<<<<<<<<..
+
+ERR12319363.5133370.trna1 (16074-16145)	Length: 72 bp
+Type: Glu	Anticodon: TTC at 31-33 (16104-16106)	Score: 16.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: CATATGGTGCAGTGGTaTGTGCAGCTATTTTTCAAATTGaTAGGtTGCGGGTTCGATTCCCGaCAATTATGG
+Str: >>>>..>>>>........<<<<.>>.>>.......<<.<.<.....>>>>>.......<<<<.<...<<<<.
+
+ERR12319363.1763648.trna1 (2077-2008)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 26.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.1824280.trna1 (936-864)	Length: 73 bp
+Type: Met	Anticodon: CAT at 33-35 (904-902)	Score: 54.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: AGCAGAGTGGCGCAGCGGAAGCGTGCTGGGCCCATAACCCAGAGGtCGATGGATCGAAaACCATCCTCTGCTA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>........<<<<<<<<<<<<.
+
+ERR12319363.634122.trna1 (3785-3716)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (3755-3753)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.634122.trna2 (3501-3432)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (3471-3469)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.634122.trna3 (3217-3148)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (3187-3185)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.4087403.trna1 (11287-11218)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (11257-11255)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.4087403.trna2 (11003-10934)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (10973-10971)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.6477035.trna1 (4802-4871)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (4832-4834)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.3000554.trna1 (5066-4994)	Length: 73 bp
+Type: Ser	Anticodon: GCT at 33-35 (5034-5032)	Score: 21.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: ATAACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTAGTGGTGACA
+Str: .>.>>>>..>>>>........<<<<.>>>...........<<<.....>..>>.......<<..<<<<<.<..
+
+ERR12319363.3000554.trna2 (4780-4711)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 25.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGccacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.3000554.trna3 (4496-4427)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (4466-4464)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.3000554.trna4 (4215-4142)	Length: 74 bp
+Type: Ser	Anticodon: GCT at 34-36 (4182-4180)	Score: 20.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: CTACaCCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGGGACA
+Str: .>.>.>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<.<..
+
+ERR12319363.3000554.trna5 (3928-3859)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (3898-3896)	Score: 22.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTTGTTAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.3000554.trna6 (3647-3574)	Length: 74 bp
+Type: Ser	Anticodon: GCT at 34-36 (3614-3612)	Score: 20.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: CTACaCCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGGGACA
+Str: .>.>.>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<.<..
+
+ERR12319363.3000554.trna7 (3360-3291)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (3330-3328)	Score: 22.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTTGTTAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.3000554.trna8 (3076-3007)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (3046-3044)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.4118133.trna1 (8986-8913)	Length: 74 bp
+Type: Arg	Anticodon: ACG at 35-37 (8952-8950)	Score: 66.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCACCCATAGCTCAATTGGAtAGAGCATCTGACTACGAATCAGAAGGcTTGGGGTTCGAGTCCTCATGGGTGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+ERR12319363.687630.trna1 (7540-7609)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (7570-7572)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.687630.trna2 (3739-3665)	Length: 75 bp
+Type: Ser	Anticodon: GGA at 34-36 (3706-3704)	Score: 23.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: TCCCCGGTAGCCCAATCGGTAGGGCACTGTCGCGGAAaaAGACAGGGATGCtGGGTTCGAATCCCGCTCGTGGAC
+Str: >>>.>>>..>>>>........<<<<.>>>>>.........<<<<<....>>.>>>.......<<<<<<<<.<<<.
+
+ERR12319363.687630.trna3 (3515-3441)	Length: 75 bp
+Type: Phe	Anticodon: GAA at 34-36 (3482-3480)	Score: 29.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: TCCCCGGTAGCCTAGTCGGCAGGGCACTGTCCCGAAAaaAGACAGGGGTGCtGGGTTCGAATCCCGCTCGTGGAT
+Str: >>>.>>>..>>>>........<<<<.>>>>>.........<<<<<....>>.>>>.......<<<<<<<<.<<<.
+
+ERR12319363.3023354.trna1 (6133-6064)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (6103-6101)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.6510155.trna1 (3841-3911)	Length: 71 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 16.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAGGGtCCCTGGTtTTGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>........<<.<<<<<<<..
+
+ERR12319363.1938533.trna1 (7394-7325)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 21.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtTGAGCATCGTTGGctacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.1952169.trna1 (6141-6213)	Length: 73 bp
+Type: Ser	Anticodon: AGA at 35-37 (6175-6177)	Score: 27.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: CATACTGTAGCTCAGTAGGTtAGAGCATTGCTCGAGAATAGCAAGGTCCCTGGTTCGAGTCCCGGTGGTGTGA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>.>>.......<<.<<<<<<<<<.
+
+ERR12319363.1985373.trna1 (10420-10351)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (10390-10388)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.3115855.trna1 (8943-9012)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (8973-8975)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.3115855.trna2 (9151-9220)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (9181-9183)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.3115855.trna3 (9704-9775)	Length: 72 bp
+Type: Met	Anticodon: CAT at 32-34 (9735-9737)	Score: 42.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCCATAGCTCAGTGGTtAGAGCATTGCTCATGACAAGcAGGGtCCCAGGTTCGAGTCCTGGTGGGTCTG
+Str: >>.>>>>..>>>>........<<<<.>>>.......<<...<.....>>>>>.......<<<<<<<<<.<<.
+
+ERR12319363.3115855.trna4 (9474-9403)	Length: 72 bp
+Type: Met	Anticodon: CAT at 32-34 (9443-9441)	Score: 42.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCCATAGCTCAGTGGTtAGAGCATTGCTCATGACAAGcAGGGtCCCAGGTTCGAGTCCTGGTGGGTCTG
+Str: >>.>>>>..>>>>........<<<<.>>>.......<<...<.....>>>>>.......<<<<<<<<<.<<.
+
+ERR12319363.2022053.trna1 (2521-2469)	Length: 53 bp
+Type: Leu	Anticodon: TAG at 26-28 (2496-2494)	Score: 19.5
+         *    |    *    |    *    |    *    |    *    |  
+Seq: TGGTGAAGTGGCATCACGCTGGCCTTAGAAGCCAGAGGcTAGAGTCGACTTTT
+Str: ..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>....<<<<.
+
+ERR12319363.2047185.trna1 (2630-2555)	Length: 76 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 27.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGgCTACAactacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.............<<<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.5451498.trna1 (4632-4701)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 26.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.5451498.trna2 (4919-4988)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 26.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.5451498.trna3 (5206-5275)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 26.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.5451498.trna4 (5494-5563)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 16.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAGGGtCCCTGGTTCGAGTGCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>.........<.<<<<<<<..
+
+ERR12319363.5451498.trna5 (5783-5852)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 26.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.2108522.trna1 (16305-16236)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 26.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.6707781.trna1 (1471-1419)	Length: 53 bp
+Type: Leu	Anticodon: TAG at 26-28 (1446-1444)	Score: 16.5
+         *    |    *    |    *    |    *    |    *    |  
+Seq: TGGTGAAGTGGTATCACGCTGGCCCTAGAAGCCAGAGGtTAGAGTCAACTTTT
+Str: ..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>....<<<<.
+
+ERR12319363.5503683.trna1 (2630-2578)	Length: 53 bp
+Type: Leu	Anticodon: TAG at 26-28 (2605-2603)	Score: 16.5
+         *    |    *    |    *    |    *    |    *    |  
+Seq: TGGTGAAGTGGTATCACGCTGGCCCTAGAAGCCAGAGGtTAGAGTCAACTTTT
+Str: ..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>....<<<<.
+
+ERR12319363.5514335.trna1 (9005-9074)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 26.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.5514335.trna2 (9294-9363)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 25.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACTATAGCTCAGTGGTtAGAGCATCGCTAgctacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.931239.trna1 (6807-6738)	Length: 70 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 25.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGTTGGctacAAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.5519999.trna1 (6028-6097)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (6058-6060)	Score: 26.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATAGCTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>>>>........<<<<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.5553920.trna1 (5214-5286)	Length: 73 bp
+Type: Ser	Anticodon: CGA at 35-37 (5248-5250)	Score: 27.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: CATACTGTAGCTCAGTTGGTtAGAGCATTGCTCGCGAATAGCAAGGTCCCTGGTTCGCGTCCCGGTGGTGTGA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>.>>.......<<.<<<<<<<<<.
+
+ERR12319363.5553920.trna2 (4884-4812)	Length: 73 bp
+Type: Ser	Anticodon: CGA at 35-37 (4850-4848)	Score: 32.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: CATACTGTAGCTCAGTTGGTtAGAGCATTGCTCGCGAATAGCAAGGTCCCTGGTTCGAGTCCCGGTGGTGTGA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<....>>.>>.......<<.<<<<<<<<<.
+
+ERR12319363.3301234.trna1 (2443-2369)	Length: 75 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 21.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: CATACTGTAGCTCAGTTGGTtAGAGCATTGCTCgCAAAAaTAGCAAGGTCCCTGGTTCGAGTCCCGGTGGCGTGA
+Str: >>>.>>>..>>>>.........<<<<.>>>>>.........<<<<<....>>.>>.......<<.<<<<<.<<<.
+
+ERR12319363.4492465.trna1 (4343-4414)	Length: 72 bp
+Type: Met	Anticodon: CAT at 32-34 (4374-4376)	Score: 42.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCCATAGCTCAGTGGTtAGAGCATTGCTCATGACAAGcAGGGtCCCAGGTTCGAGTCCTGGTGGGTCTG
+Str: >>.>>>>..>>>>........<<<<.>>>.......<<...<.....>>>>>.......<<<<<<<<<.<<.
+
+ERR12319363.4492465.trna2 (4633-4704)	Length: 72 bp
+Type: Met	Anticodon: CAT at 32-34 (4664-4666)	Score: 42.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCCATAGCTCAGTGGTtAGAGCATTGCTCATGACAAGcAGGGtCCCAGGTTCGAGTCCTGGTGGGTCTG
+Str: >>.>>>>..>>>>........<<<<.>>>.......<<...<.....>>>>>.......<<<<<<<<<.<<.
+
+ERR12319363.5740575.trna1 (697-628)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 31-33 (667-665)	Score: 15.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: CACCATGGGTCAGTGGTtAGAGCATCGCTGGCTAcaAGCGAGGGtCCCTGGTTCGAGTCCTGGTGGTGAC
+Str: >>>>>..>.>>........<<.<.>>>...........<<<.....>>.>>.......<<.<<<<<<<..
+
+ERR12319363.5770116.trna1 (2322-2393)	Length: 72 bp
+Type: Leu	Anticodon: GAG at 33-35 (2354-2356)	Score: 31.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCACAGTGGCTGGGTGGTAAGGAAgAGTGACTGAGATTCACAAGGtTGTGGGTTCAAATCCCATCTTGTGTA
+Str: >>>>>>...>>.........<<....>>>>.......<<<<......>>>>>.......<<<<<<<.<<<<.
+
+ERR12319363.5770116.trna2 (2874-2945)	Length: 72 bp
+Type: Leu	Anticodon: GAG at 33-35 (2906-2908)	Score: 22.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCACAGTGGCTGGGTGGTAAGGAAgAGTGACTGAGATTCACAAGGtTGTGGGTTCTAATCCCATCTTATGTA
+Str: >>>.>>...>>.........<<....>>>>.......<<<<......>>>>>.......<<<<<<<..<<<.
+

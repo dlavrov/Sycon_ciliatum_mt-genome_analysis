@@ -1,0 +1,62 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.505)
+
+
+KU244278.1      gcatttttcctgaggactctacttggccctctttttcttcttctcctgactgcttttttt
+Contig91_1670-2 -----tttcttaaggaccttacttggccctctttttctccttctcctgaccgcctttttt
+                     ****.*.*****..*******************.***********.**.******
+
+KU244278.1      accctttgagagcgtcgtattctaggggctacccagtcccgtatgggtccagcccgaaca
+Contig91_1670-2 accctttgagaacgccgcactctaggggctgctcagtcccgcatgggcccaacccgggca
+                ***********.**.**.*.**********.*.********.*****.***.****..**
+
+KU244278.1      ggttttgccggtctttttaccccctttttggacgggattaagctgctacttcgagaggtt
+Contig91_1670-2 ggttttgctggcctttttactccctttttggacggcttcaagctactacttcgagaggtt
+                ********.**.********.**************  *.*****.***************
+
+KU244278.1      catcagcctacctctgtcggggccccctttttcatttggccctctctagctctctttttg
+Contig91_1670-2 caccagcccgtatctgttgggactccctttttcatctggcctactctggctctctttttg
+                **.*****... *****.***.*.***********.*****. ****.************
+
+KU244278.1      gtcttggtgggaggtagcctatcccctaggggctacccgtctttttgtaggccacacctg
+Contig91_1670-2 gtcctagtgggtggcagcgtatctcctaggggttatccttctttttgtaggccgcacctc
+                ***.*.***** **.*** ****.********.**.** **************.***** 
+
+KU244278.1      ttttttattctctttttggttctaggtggttttttggcttggctggtggccttgggggct
+Contig91_1670-2 ttttttgtcctttttttagtcctcggcggttttttggcttggctggtggccttgggcgcc
+                ******.*.**.*****.**.** **.***************************** **.
+
+KU244278.1      cgtacctctgggtctggttatcctctgcttagagctaggcgaagggttagacagagagtg
+Contig91_1670-2 cgtacttcagggtctggttaccccctactgagggctaggcggagagttaggcagggcgtg
+                *****.** ***********.**.**.** **.********.**.*****.***.* ***
+
+KU244278.1      ggttatgaattagtttgatctacaacctttttcttccctcttgctctgggggcttttttg
+Contig91_1670-2 ggctatgagctggtctggtctacaacctttttccttcctcttgccttaggggcctttttg
+                **.*****..*.**.**.***************.*.********..*.*****.******
+
+KU244278.1      actccctctactacacttgcttggcccatgagattagtcgggcctttttgattgggggcc
+Contig91_1670-2 acaccctctatcgcacttagttgagctcctaggctggttgggcctttttgattgggggca
+                ** *******...*****. ***. *. . **..*.**.******************** 
+
+KU244278.1      tttttttgtctgttagcagagacccatcgggcgcctgcagatactgtagaaagagagagc
+Contig91_1670-2 tttttttgcctgttggctgagacacaccgagctcctgtagatacagtggaaagagagagt
+                ********.*****.** ***** **.**.** ****.****** **.***********.
+
+KU244278.1      gaacttgtctcgggctacactacggagttagccggctgggccttcacgtctttttttcta
+Contig91_1670-2 gagcttgtctctggttacactacagagttggctgggtgagccttcacctctttttttcta
+                **.******** **.********.*****.**.** **.******** ************
+
+KU244278.1      gcagaagtctctcacctctgattgagctgcttcctcttatcctctttttgaaccagaagc
+Contig91_1670-2 gcggaaatctctcacctctggctaagctgcttcctcttatcctctttttgaacagggagc
+                **.***.*************..*.***************************** .*.***
+
+KU244278.1      cctagggcagccctccctttaatctgactagtggtattaaggcgagcgggccttccccga
+Contig91_1670-2 cctagggcagccctccctttaatctggctagtggtcttaaggcgagcggggcttcctcga
+                **************************.******** ************** *****.***
+
+KU244278.1      attcgatatgacgcaatcatggacctctgttgaaaggtcggtcttcccgcaaccctaaga
+Contig91_1670-2 atccgatacgacgcaatcatggacctctgctgaaaggttggtcttcctgcagccctgaga
+                **.*****.********************.********.********.***.****.***
+
+KU244278.1      gcttccttgatggcctttttcttacggt
+Contig91_1670-2 acttccctgatgtcctttttcctgcggt
+                .*****.***** ********.*.****

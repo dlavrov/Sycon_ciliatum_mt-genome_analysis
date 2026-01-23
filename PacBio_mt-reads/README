@@ -1,0 +1,4 @@
+# README
+Selection of PacBio reads based on blast searches to previously identifed transcripts or newly identified repeats.
+
+- reads_all_hits_edited.fa: conceptually edited reads

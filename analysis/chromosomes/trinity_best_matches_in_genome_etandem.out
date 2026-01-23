@@ -1,0 +1,524 @@
+### Results for sequence: ERR12319363.1.1657860 ###
+########################################
+# Program: etandem
+# Rundate: Mon 22 Dec 2025 11:55:49
+# Commandline: etandem
+#    -sequence temp_single_seq.fa
+#    -outfile stdout
+#    -minrepeat 10
+#    -maxrepeat 200
+# Report_format: table
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Sequence: ERR12319363.1.1657860     from: 1   to: 3383
+# HitCount: 3
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 200
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus                                                                                                
+   2861    3175       +     116    105      3     85.1 gtcgacccaagcttgacgcaccgccttccaacctctgaaagtccaagggtcgtgaggcgaggaatcaacaacgacccgacgcgaggcgcggttggcgccgataca
+   2492    2806       +      94    105      3     81.6 ggggcgaggagaccacaaggcccgaagccgaggcgcggttggcgccgatatagtaggaaccaagcttgtcgcaccgccctctcccctcagaaagtccaagggcct
+    108     299       +      68     64      3     84.4 actctgttctaggtccaggttttccagccttcggtcttaaagcctgccggcaaggtcgctgcct                                         
+
+#---------------------------------------
+#---------------------------------------
+
+### Results for sequence: Contig38;; ###
+########################################
+# Program: etandem
+# Rundate: Mon 22 Dec 2025 11:55:50
+# Commandline: etandem
+#    -sequence temp_single_seq.fa
+#    -outfile stdout
+#    -minrepeat 10
+#    -maxrepeat 200
+# Report_format: table
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Sequence: Contig38;;     from: 1   to: 5154
+# HitCount: 8
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 200
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus                                                                                                
+    275     694       +     113    105      4     76.0 gcgcctcgcgccgggcccttggtggtccccccccccacggcccttggactttctgaggatagtgggcggtgcgtcacgcttgggtcctactatatcggcgccaac
+   4604    4918       +     104    105      3     83.2 gtgacgcaccgcccactaccctaagaaagtccaagggtcgtgaggcgaggaatcaacaacgacccggagcgaggcgcggttggcgccgatataagcgacccaagt
+   4252    4459       +      80    104      2     94.2 cgaggcgcggttggcgccgatatgagcgacccaagcttgtcgcaccgcccagccccttcataaagtccaagggcctggggcgaggagaccacaaggcccgaagc 
+   3501    3592       +      44     46      2     98.9 aggtggcaaaggaaggggctcgttagaaccgaccaacctaatgccc                                                           
+   1171    1248       +      35     39      2     97.4 cctcgtagcctgctctgttctaggtccaggttttctaac                                                                  
+   3323    3498       +      26     88      2     82.4 gccaccgccgtacaaacgccctctccagtggtcagggctgccggaagagacgaaaaaccgtccctgcactagccacagccaaagaccc                 
+   3882    3965       +      24     28      3     81.0 gcctggacctaagaacgcaggttagaaa                                                                             
+   1019    1170       +      22     76      2     82.2 agcctgctttgtgacctgcactgctctaggtccatgttttctagccttcgttcttagagcctgctctggctgccgg                             
+
+#---------------------------------------
+#---------------------------------------
+
+### Results for sequence: ERR12319363.1.4371402 ###
+########################################
+# Program: etandem
+# Rundate: Mon 22 Dec 2025 11:55:51
+# Commandline: etandem
+#    -sequence temp_single_seq.fa
+#    -outfile stdout
+#    -minrepeat 10
+#    -maxrepeat 200
+# Report_format: table
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Sequence: ERR12319363.1.4371402     from: 1   to: 4114
+# HitCount: 5
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 200
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus                                                                                                
+    524     943       +     181    105      4     84.0 tcaggcccttggactttctgaggtaagaaggcggtgcgacaagcttgggtctctcgatatcggcgccaaccgcgcctcggcttcgggccttgtggtctcctcgtc
+   1244    1441       +      71     99      2     92.9 gtccccctccagccccaaagctttggcggctgttctcgtaggtccaggttttctaaccagctggcgcccttgagttctcttagcttactgccgcctttg      
+   1111    1220       +      55     55      2    100.0 gcctactctgttctaggtccaggttttccagccttcgttcttaaagcctgctgcc                                                  
+   1571    1762       +      44     96      2     86.5 aactgcttttgtcccctccagccctgaggcctgctgttctaggtccaggttttctaaccagctggtacccttgagttgtcttaactgcctttgtcc         
+   3699    3784       +      25     43      2     89.5 gaacgaaggctggaaaaccgggacctacaacagcaggctacaa                                                              
+
+#---------------------------------------
+#---------------------------------------
+
+### Results for sequence: Contig95;; ###
+########################################
+# Program: etandem
+# Rundate: Mon 22 Dec 2025 11:55:53
+# Commandline: etandem
+#    -sequence temp_single_seq.fa
+#    -outfile stdout
+#    -minrepeat 10
+#    -maxrepeat 200
+# Report_format: table
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Sequence: Contig95;;     from: 1   to: 5452
+# HitCount: 11
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 200
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus                                                                                                                                  
+    465     884       +     191    105      4     85.2 atggtatcggcgccaaccgcgcctcggcttcgggccttgtggtttccccgccccaggcccttggactttctgaggtaagaaggcggtgcgtcaagcttggttcct                                  
+   4602    5126       +     152    105      5     74.5 gggggggggaaaccaaaagcccccaggcgcggggcgggttgggccccgataatagcgaaccaagcatgacgcaccgccctctaccctcagaaagtccaagggccg                                  
+   3531    3808       +     119    139      2     96.4 ggcgtctctttggtcttctctctgggtttcagttgggtctgtgggccttcccctctcctcttagcagcacctgtttgtcttccacggcccgggacctttggcagattgtgtctctatctggcgtcctctaagcccgacg
+   3250    3423       +      73     87      2     96.0 accttttagttgcggctagtgcagggacggtttttcgtctcttccggcagctctgagcaccttatagggcatttgtgcggtgatggc                                                    
+   1367    1471       +      64     35      3     97.1 ccggctggctgctaccttaggtccaggttttctaa                                                                                                        
+   1499    1632       +      59     67      2     97.0 ctctctctgactgcttttgtccccttccagccttgaggccagctggtgctcttgaggtgtcttaact                                                                        
+   4288    4443       +      48     52      3     82.1 gcaggcaacagggtctaagagcgcaggttagaaaacctggacctaggacaga                                                                                       
+   1003    1089       +      38     29      3     88.5 ggctgggcttgtcgttccttggttcaggg                                                                                                              
+   1162    1245       +      28     28      3     83.3 ttctaggtccatgttttctagcctgctg                                                                                                               
+   3984    4043       +      28     30      2     98.3 gaaaaccccttctttagggctggcggcgag                                                                                                             
+   1713    1848       +      26     68      2     84.6 tgtccccttccagccctgactgccccctttggtgggtgttaccctttgcagcctgctttgagtactct                                                                       
+
+#---------------------------------------
+#---------------------------------------
+
+### Results for sequence: Contig114;; ###
+########################################
+# Program: etandem
+# Rundate: Mon 22 Dec 2025 11:55:54
+# Commandline: etandem
+#    -sequence temp_single_seq.fa
+#    -outfile stdout
+#    -minrepeat 10
+#    -maxrepeat 200
+# Report_format: table
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Sequence: Contig114;;     from: 1   to: 5052
+# HitCount: 7
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 200
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus                                                                                                 
+   4045    4779       +     212    105      7     71.6 ttgacgcaccgcccccttccctcagaaagtccaagggccgtgggcggagggatcaacagccacgcggcgcgaggggcggtggggcccaataaggaggacccaagc 
+    584    1003       +     179    105      4     83.8 cctgtatcggcgccaaccgcgcctcggcttcgggccttgtggtttccccgccccaggcccttggactttctgaggtaaggaggcggtgcgacaagcttggttccc 
+   1158    1475       +     112    106      3     84.3 gttcttaaagcctgctgccgcctttgtagcctgctgttctaggtccaggttttctacaggctgggctcgtcgttccttgggcctaggtccatgttttctagcctgc
+   1825    2012       +      70     94      2     93.6 ctttgtagcctgctctgattgcctttgtccccttccagccctgaggctttggcggctgttatcttaggtccaggttttctaacctgctttgggg            
+   3648    3765       +      53     59      2     97.5 tagaaaacctggacctaaggcagtcagagagctaaggccactcaagggcaccagctggc                                               
+   3850    3937       +      34     44      2     94.3 agcctatagagccaagtggccttgaaccaagcaacgataagccc                                                              
+   3477    3574       +      23     49      2     86.7 cacaaaggttagaaaacatggacctacgacaacagccgccaaaggtggc                                                         
+
+#---------------------------------------
+#---------------------------------------
+
+### Results for sequence: ERR12319363.1.6938770 ###
+########################################
+# Program: etandem
+# Rundate: Mon 22 Dec 2025 11:55:54
+# Commandline: etandem
+#    -sequence temp_single_seq.fa
+#    -outfile stdout
+#    -minrepeat 10
+#    -maxrepeat 200
+# Report_format: table
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Sequence: ERR12319363.1.6938770     from: 1   to: 3561
+# HitCount: 8
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 200
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus                                                                                                
+   2636    3370       +     240    105      7     73.5 gaggaatcaacaacgacccggccgaggcgcggttggcgccgataaaggacgacccaagcttgacgcaccgccgccttccctcagaaagtccaagggccgtggggg
+    515     736       +      80     74      3     84.7 gctgtcgcctttgcagcctgctaccctaggtccaggttttctaaccagctggtgcccttgggctctctttgcct                               
+   2233    2424       +      62     96      2     91.1 gggcaccagctggttacagcaggctctaaggccgcaggttagaaaacatggacctacgccaacagtactcagagcaggctacaaagccggcagcca         
+    373     458       +      33     43      2     94.2 tctaggtccaggttttctaacctgcgttcttagcgcctgctgc                                                              
+   2033    2204       +      32     86      2     84.3 ggctagtgcagggacggttttcccctcttccggcagctctgggcacctcacagggcgtttgtacgatgagggcagccttttggtac                   
+     33     119       +      30     29      3     83.9 gccgtcgcttggtcctacaggctgggctt                                                                            
+    165     308       +      28     72      2     84.7 ctaccttaggtccaggttttctagcctgctctgattgcctttgtcctctctagccctggctaccagctttgt                                 
+   2497    2583       +      24     29      3     80.5 aagcccagcctgtagaaccaaggaacgac                                                                            
+
+#---------------------------------------
+#---------------------------------------
+
+### Results for sequence: Contig72;; ###
+########################################
+# Program: etandem
+# Rundate: Mon 22 Dec 2025 11:55:55
+# Commandline: etandem
+#    -sequence temp_single_seq.fa
+#    -outfile stdout
+#    -minrepeat 10
+#    -maxrepeat 200
+# Report_format: table
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Sequence: Contig72;;     from: 1   to: 4579
+# HitCount: 6
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 200
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus                                                                                                                         
+   1145    1404       +     106    130      2     95.4 ctgccttaggtccaggttttacaacctttgtcccctctagccctggctgccggcaaggtcgctgcctactctgttctaggtccaggttttccaacctttgtcccctctagcctttgtagcctgctgccgc
+    468     785       +     102    106      3     82.7 tatcggcgccaaccgcgcctcgcctcgggtcgttgttgattcctcgtcccacgacccttggacttttggagggaggcgggcggtccgccaggcttggttcctcatg                        
+   4110    4427       +      92    106      3     81.1 agaagaaccaagcttgtcataccgcccacctcccttttaaagtccaagggtcgtgaggcgaggagacaacaacgacccggagcgaggcgcggttggcgccgataca                        
+   3577    3700       +      44     62      2     92.7 acgcaggttagaaaacatggacctagaacagcaggctgcaaaggcggcagcaggctagaaaa                                                                    
+   1503    1625       +      40     41      3     82.9 ggtgccctggctgccggctttgtagcctgctgtaaccacct                                                                                         
+   3706    3793       +      34     44      2     94.3 accttgaaccaaggaacgacaagccaagcccgcagaaccaagct                                                                                      
+
+#---------------------------------------
+#---------------------------------------
+
+### Results for sequence: ERR12319363.1.3615090 ###
+########################################
+# Program: etandem
+# Rundate: Mon 22 Dec 2025 11:55:57
+# Commandline: etandem
+#    -sequence temp_single_seq.fa
+#    -outfile stdout
+#    -minrepeat 10
+#    -maxrepeat 200
+# Report_format: table
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Sequence: ERR12319363.1.3615090     from: 1   to: 5144
+# HitCount: 7
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 200
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus                                                                                                
+   4026    4655       +     213    105      6     75.2 ggggcgggagatcaacaacgccccggccgaggcgcggttggcgccgatacatgaggacccaagcttgtcgcaccgccttctaacctctgaaagtccaagggcctg
+    129     443       +      96    105      3     81.9 tgtatcggcgccaaccgcgcctcggcttcgggccttgtggtttccccgccccaggcccttggactttctgaggtaagacggcggtgcgacaagcttggttcgttc
+   3863    3949       +      50     29      3     95.4 gaaccaaggaacgacaagcccagcctgta                                                                            
+   3752    3855       +      44     52      2     96.2 ggcagcaggcgctaagaacgcaggttagaaaacatggacctagaacagagta                                                     
+    610     737       +      30     64      2     86.7 gttctaggtccatgttttccagccttcgttcttaaagcctgctgccgccttcgtagcctgctgt                                         
+   3125    3180       +      24     28      2     96.4 gctagaaaacctggacctagaacagcag                                                                             
+   1906    2005       +      22     50      2     86.0 cccctctagccctggctgccggctttgtagcctgctctgaatgcctctgt                                                       
+
+#---------------------------------------
+#---------------------------------------
+
+### Results for sequence: ERR12319363.1.1582962 ###
+########################################
+# Program: etandem
+# Rundate: Mon 22 Dec 2025 11:55:57
+# Commandline: etandem
+#    -sequence temp_single_seq.fa
+#    -outfile stdout
+#    -minrepeat 10
+#    -maxrepeat 200
+# Report_format: table
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Sequence: ERR12319363.1.1582962     from: 1   to: 4011
+# HitCount: 4
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 200
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus                                                                                                 
+    331     860       +     120    106      5     71.3 ttctgaaggaaggaggcggtgcgacaagcttggttcctactgtatcggcgccaaccgcgcctcggcctcgggccttgttgtttccccgcctcaaggcccttggact
+   1065    1192       +      30     64      2     86.7 gttctaggtccatgttttccagccttcgttcttaaagcctgctgccgccttcgtagcctgctgt                                          
+   3578    3633       +      24     28      2     96.4 gctagaaaacctggacctagaacagcag                                                                              
+   2369    2468       +      20     50      2     85.0 ccctggctgccggctttgtagcctgctctgaatgcctctgtccccttcca                                                        
+
+#---------------------------------------
+#---------------------------------------
+
+### Results for sequence: ERR12319363.1.5618836 ###
+########################################
+# Program: etandem
+# Rundate: Mon 22 Dec 2025 11:55:58
+# Commandline: etandem
+#    -sequence temp_single_seq.fa
+#    -outfile stdout
+#    -minrepeat 10
+#    -maxrepeat 200
+# Report_format: table
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Sequence: ERR12319363.1.5618836     from: 1   to: 4472
+# HitCount: 5
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 200
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus                                                                                                                 
+    171     775       +     350    121      5     88.9 gcgccgggccggcgattgtatgcttggatcgcttgctttgttccgccggcccttggactttctgaggggggtgggcggtgcgtcatgcttgggtcgctcatatcggcgccaaccgcgcctc 
+   4137    4451       +     132    105      3     87.6 gcgaggcgcggttggcgccgatacggtcgacccaagcttgtcgtaccacagctttctctcagaaagtccaagggccgtgaggcgagggaacaacaacggcccgac                 
+   3690    3933       +     108    122      2     97.1 gagcgacccaagcttgtcgcaccgccgtcttacttcagaaagtccaagggccggcggaacaaagcaagcgatccaagcatgcaatcgccggcccgaagccgaggcgcggttggcgccgatac
+   1017    1110       +      37     47      2     94.7 cttaccgctgggagaagccctacaggctttcctcgtcgttgaacccc                                                                           
+   2834    2895       +      23     31      2     93.5 ccccctgtagtcagcttggctttgcatccac                                                                                           
+
+#---------------------------------------
+#---------------------------------------
+
+### Results for sequence: Contig89;; ###
+########################################
+# Program: etandem
+# Rundate: Mon 22 Dec 2025 11:55:59
+# Commandline: etandem
+#    -sequence temp_single_seq.fa
+#    -outfile stdout
+#    -minrepeat 10
+#    -maxrepeat 200
+# Report_format: table
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Sequence: Contig89;;     from: 1   to: 5008
+# HitCount: 4
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 200
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus                                                                                                                                                 
+    361     784       +     118    106      4     76.4 cttgtatcggcgccaaccgcgcctcggcttcgggccttgtggtctcctcgtcccaggcccttggactttttgaggtaaggcggcggtgcgacaagcttggttcctt                                                
+   4306    4623       +     102    106      3     82.7 ccccccccccaataaagtccaagggtcgtggggcgaggaatcaacaacgacccgaagcgaggcgcggttggcgccgatacatgaggacccaagcttgccgaaccgc                                                
+   4050    4255       +      93    103      2     97.6 gcgaggcgcggttggcgccgatatgagcgacccaagcttgtcgcaccgccgtcttacctcagaaaatccaagggcctgaggcggggaaaccacaaggcccgaa                                                   
+   1122    1429       +      66    154      2     85.7 acctttgtagcctactgccgcctttgccgcctgctgtcctaggtccaggttttctaacttgttttgactgcctttgtccccttccagccctgaagccggctagctgctaccccaggtccaggttttctagcctgctctgattgcctttgtcctc
+
+#---------------------------------------
+#---------------------------------------
+
+### Results for sequence: Contig1;; ###
+########################################
+# Program: etandem
+# Rundate: Mon 22 Dec 2025 11:56:00
+# Commandline: etandem
+#    -sequence temp_single_seq.fa
+#    -outfile stdout
+#    -minrepeat 10
+#    -maxrepeat 200
+# Report_format: table
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Sequence: Contig1;;     from: 1   to: 4068
+# HitCount: 6
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 200
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus                                                                                                                                                                
+    248     667       +     117    105      4     76.4 gcgcctcgcgccgggtccttggtgattcccccccccacggcccttggactttctgaggaaaggcggcggtgcgtcacgcttgggtccttatgtatcggcgccaac                                                                
+   1015    1352       +      47    169      2     82.0 ctaggcccaggttttccagcctgcgctcctttggggctgccggcaaggtcgctgcctactctgttctaggtccaggttttccaaccttcgttcttaaggcctgctgccgcctttgcagcctgctacctttataggctgctctaagtactgttggcggaggtccaggttt
+   3812    3899       +      28     44      2     90.9 ggccttgaaccaaggaacgacaagcccaacgtgccggaccaaac                                                                                                                             
+   3708    3793       +      27     43      2     90.7 ggttagaaaacatggacctagagcagcaggctgcaaaggcggc                                                                                                                              
+   3389    3442       +      23     27      2     96.3 gcatcctcctgtagtcagcttggcttg                                                                                                                                              
+   1497    1574       +      23     39      2     89.7 cctgttctaggtccatgttttccaaccctcgtagcctgt                                                                                                                                  
+
+#---------------------------------------
+#---------------------------------------
+
+### Results for sequence: ERR12319363.1.3408167 ###
+########################################
+# Program: etandem
+# Rundate: Mon 22 Dec 2025 11:56:01
+# Commandline: etandem
+#    -sequence temp_single_seq.fa
+#    -outfile stdout
+#    -minrepeat 10
+#    -maxrepeat 200
+# Report_format: table
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Sequence: ERR12319363.1.3408167     from: 1   to: 3098
+# HitCount: 7
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 200
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus                                                                                                                     
+      1     315       +     174    105      3     94.3 tcatatatcggcgccaaccgcgcctcggcttcgggccttgtggtctccccgccccaggcccttggactttctgaagttaggcggcggtgcgacaagcttggttcc                     
+    515     766       +      54    126      2     85.7 tttgtagcctgctgttttaggcccatgttttctagcctgcattcttaggccctgccggcaaggtcgctgcctactctgttctaggtccatgttttccagcctgctctgagtgcttttgtccccttc
+    850     939       +      43     45      2     98.9 ctgccacctaggtccaggttttctaaccttcgtagcctgttctga                                                                                 
+   1046    1119       +      35     37      2     98.6 cctttgtggcctgctgttctaggtccaggttttctaa                                                                                         
+   2750    2871       +      33     61      2     88.5 tcctttgcagcccagtcaaccaagctaccttggtgtactaacagaagccttcaagggttag                                                                 
+   2872    3037       +      27     83      2     83.1 gcagccagccaaggggcaagtgaaccaagcgaccttgccggcaggccctaagaacgcaggctagaaaacatggacctaagcca                                           
+    422     507       +      25     43      2     89.5 gcttggcttaggtcgttgggcttgtcgttccttggttctgcag                                                                                   
+
+#---------------------------------------
+#---------------------------------------
+
+### Results for sequence: ERR12319363.1.4671060 ###
+########################################
+# Program: etandem
+# Rundate: Mon 22 Dec 2025 11:56:02
+# Commandline: etandem
+#    -sequence temp_single_seq.fa
+#    -outfile stdout
+#    -minrepeat 10
+#    -maxrepeat 200
+# Report_format: table
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Sequence: ERR12319363.1.4671060     from: 1   to: 6213
+# HitCount: 9
+#
+# Threshold: 20
+# Minrepeat: 10
+# Maxrepeat: 200
+# Mismatch: No
+# Uniform: No
+#
+#=======================================
+
+  Start     End  Strand   Score   Size  Count Identity Consensus                                                                                                                     
+   2340    2654       +     178    105      3     94.9 ggcggtgcgtcaagcttggttcctcatatatcggcgccaaccgcgcctcggcttcgggccttgtggtctccccgccccaggcccttggactttctgaagttaggc                     
+   5605    6129       +     168    105      5     76.0 ggcggggaaaccacaaaggccccagccgaggcgcggttggcgccgataaagaacgacccaagcatgacgcaccgcctccttccctcagaaagtccaagggccgtg                     
+   2877    3128       +      54    126      2     85.7 tttgtagcctgctgttttaggcccatgttttctagcctgcattcttaggccctgccggcaaggtcgctgcctactctgttctaggtccatgttttccagcctgctctgagtgcttttgtccccttc
+   3212    3301       +      43     45      2     98.9 ctgccacctaggtccaggttttctaaccttcgtagcctgttctga                                                                                 
+   3408    3481       +      35     37      2     98.6 cctttgtggcctgctgttctaggtccaggttttctaa                                                                                         
+   5112    5233       +      33     61      2     88.5 tcctttgcagcccagtcaaccaagctaccttggtgtactaacagaagccttcaagggttag                                                                 
+   5235    5400       +      27     83      2     83.1 cagccagccaaggggcaagtgaaccaagcgaccttgccggcaggccctaagaacgcaggctagaaaacatggacctaagccaa                                           
+   2784    2869       +      25     43      2     89.5 gcttggcttaggtcgttgggcttgtcgttccttggttctgcag                                                                                   
+   2048    2257       +      25    105      2     81.0 ccgtatcggcgccaaccgcgcctcgctccgggtcgttgttgattcctcgcctcacgacccttggactttcagggggagggaggcggtgcgtcatgcttggttcct                     
+
+#---------------------------------------
+#---------------------------------------
+

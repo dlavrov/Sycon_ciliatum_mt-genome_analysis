@@ -1,0 +1,24 @@
+#                                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NODE_23476_len_1412_cov_53.8_g906_i3.p1  -          uniprot-nad6_aln     -                2.3   12.0   1.8         3   11.7   1.8   1.2   1   0   0   1   1   1   0 type:3prime_partial len:137 gc:the mold, protozoan, and coelenterate mitochondrial code and the mycoplasma/spiroplasma code NODE_23476_len_1412_cov_53.8_g906_i3:1002-1412(+)
+NODE_27095_len_1124_cov_60.6_g906_i7.p1  -          uniprot-nad6_aln     -                2.3   12.0   1.8         3   11.7   1.8   1.2   1   0   0   1   1   1   0 type:3prime_partial len:137 gc:the mold, protozoan, and coelenterate mitochondrial code and the mycoplasma/spiroplasma code NODE_27095_len_1124_cov_60.6_g906_i7:714-1124(+)
+NODE_14813_len_2175_cov_12.8_g8877_i0.p4 -          uniprot-nad6_aln     -                3.2   11.6   1.1       4.6   11.1   1.1   1.1   1   0   0   1   1   1   0 type:complete len:244 gc:the mold, protozoan, and coelenterate mitochondrial code and the mycoplasma/spiroplasma code NODE_14813_len_2175_cov_12.8_g8877_i0:1749-1018(-)
+NODE_1388_len_5910_cov_20.7_g906_i0.p18  -          uniprot-nad6_aln     -                3.3   11.5   1.8       4.3   11.1   1.8   1.2   1   0   0   1   1   1   0 type:complete len:176 gc:the mold, protozoan, and coelenterate mitochondrial code and the mycoplasma/spiroplasma code NODE_1388_len_5910_cov_20.7_g906_i0:5822-5295(-)
+NODE_1448_len_5830_cov_20.7_g906_i1.p4   -          uniprot-nad6_aln     -                3.3   11.5   1.8       4.3   11.1   1.8   1.2   1   0   0   1   1   1   0 type:complete len:176 gc:the mold, protozoan, and coelenterate mitochondrial code and the mycoplasma/spiroplasma code NODE_1448_len_5830_cov_20.7_g906_i1:89-616(+)
+NODE_24030_len_1364_cov_41.9_g906_i4.p6  -          uniprot-nad6_aln     -                3.3   11.5   1.8       4.3   11.1   1.8   1.2   1   0   0   1   1   1   0 type:complete len:176 gc:the mold, protozoan, and coelenterate mitochondrial code and the mycoplasma/spiroplasma code NODE_24030_len_1364_cov_41.9_g906_i4:1276-749(-)
+NODE_1388_len_5910_cov_20.7_g906_i0.p17  -          uniprot-nad6_aln     -                  4   11.2   1.8       5.4   10.8   1.8   1.2   1   0   0   1   1   1   0 type:5prime_partial len:205 gc:the mold, protozoan, and coelenterate mitochondrial code and the mycoplasma/spiroplasma code NODE_1388_len_5910_cov_20.7_g906_i0:5909-5295(-)
+NODE_1448_len_5830_cov_20.7_g906_i1.p3   -          uniprot-nad6_aln     -                  4   11.2   1.8       5.4   10.8   1.8   1.2   1   0   0   1   1   1   0 type:5prime_partial len:205 gc:the mold, protozoan, and coelenterate mitochondrial code and the mycoplasma/spiroplasma code NODE_1448_len_5830_cov_20.7_g906_i1:2-616(+)
+NODE_24030_len_1364_cov_41.9_g906_i4.p5  -          uniprot-nad6_aln     -                  4   11.2   1.8       5.4   10.8   1.8   1.2   1   0   0   1   1   1   0 type:5prime_partial len:205 gc:the mold, protozoan, and coelenterate mitochondrial code and the mycoplasma/spiroplasma code NODE_24030_len_1364_cov_41.9_g906_i4:1363-749(-)
+NODE_25678_len_1237_cov_50.7_g906_i5.p5  -          uniprot-nad6_aln     -                4.9   11.0   1.7       7.3   10.4   1.7   1.3   1   0   0   1   1   1   0 type:complete len:259 gc:the mold, protozoan, and coelenterate mitochondrial code and the mycoplasma/spiroplasma code NODE_25678_len_1237_cov_50.7_g906_i5:1149-373(-)
+NODE_25678_len_1237_cov_50.7_g906_i5.p4  -          uniprot-nad6_aln     -                5.6   10.8   1.7       8.4   10.2   1.7   1.3   1   0   0   1   1   1   0 type:5prime_partial len:288 gc:the mold, protozoan, and coelenterate mitochondrial code and the mycoplasma/spiroplasma code NODE_25678_len_1237_cov_50.7_g906_i5:1236-373(-)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      nad6.hmm
+# Target file:     ../../data/transcriptome/ERR12318596_TD2/longest_orfs.pep
+# Option settings: hmmsearch --tblout results.tbl nad6.hmm ../../data/transcriptome/ERR12318596_TD2/longest_orfs.pep 
+# Current dir:     /Users/dlavrov/GitHub/Projects/Calcaronea-mt-genome-evolution/Sycon-ciliatum_mt-genome_analysis/analysis/missing_CDS
+# Date:            Sun Jul 13 10:48:13 2025
+# [ok]

@@ -1,0 +1,170 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.505)
+
+
+KU244280.1      gtgattggttctgcgttttgaggtagcttgggatgaccttcgccggctggggggtcggca
+ERR12319363.1.9 gtgattggttctacgttttgaggtagcttgggatgaccttcgccggctggggggtcggca
+ERR12319363.1.6 gtgattggttctgcgttttggggtagcttgggatgaccttcgccggctggggggtcggca
+ERR12319363.1.6 gtggttggttctgcgttttgaggtagcttgggatgaccttcgccggctggggggtcggca
+ERR12319363.1.4 gtggttggttctgcgttttgaggtagcttgggatgaccttcgccggctggggggtcggca
+ERR12319363.1.1 gtgattggttctgcgttttgaggtagcttgggatgaccttcgccggctggggggtcggca
+ERR12319363.1.1 gtgattggttctgcgttttgaggtagcttgggatgaccttcgccggctggggggtcggca
+Contig3_5975-66 gtgattggttctgcgttttggggtagcttgggatgaccttcgccggctggggggtcggca
+Contig114_2070- gtgattggttctgcgttttgaggtagcttgggatgaccttcgccggctggggggtcggca
+ERR12319363.1.2 gtgattggttctgcgttttgaggtagcttgggatgaccttcgccggctggggggtcggca
+Contig94_1008-1 gtgattggttctgcgttttgaggtagcttgggatgaccttcgccggctggggggtcggca
+ERR12319363.1.3 -------------------------------------------------gggggtcggca
+                                                                 ***********
+
+KU244280.1      gaggctg-ttttacttctccacgaccgagtggcatttttgctctgtgcagtctcttgggt
+ERR12319363.1.9 gaggctatttttacttctccacgacagagtggtatttttgccctgtgcagtctcctgggt
+ERR12319363.1.6 gaggctg-ttttacttctccacggccgagtggtatttttgctctgtgcagtctcctgggt
+ERR12319363.1.6 gaggctg-ttttacttctccacgaccgagtggtatttttgctctgtgcagtctcctgggt
+ERR12319363.1.4 gaggctg-ttttacttctccacgaccgagtggtatttttgctctgtgcagtctcctgggt
+ERR12319363.1.1 gaggctg-ttttacttctccacgaccgagtggtatttttgctctgtgcagtctcctgggt
+ERR12319363.1.1 gaggctg-ttttacttctccacgaccgagtggtatttttgctctgtgcagtctcctgggt
+Contig3_5975-66 gaggctg-ttttacttctccacggccgagtggtatttttgctctgtgcagtctcctgggt
+Contig114_2070- gaggctg-ttttacttctccacgaccgagtggtatttttgctctgtgcagtctcctgggt
+ERR12319363.1.2 gaggctg-ttttacttctccacgaccgagtggcatttt---------------------t
+Contig94_1008-1 gaggctg-ttttacttctccacgaccgagtggcatttttgctctgtacagtctcctgggt
+ERR12319363.1.3 gaggctg-ttttacttctccacgaccgagtggtatttttgctctgtgcagtctcctgggt
+                ******. ***************.* ******.*****                     *
+
+KU244280.1      gctttttttagtcaggtctgcctatgcgtgagggtggcgttccttggggcaccgtaggct
+ERR12319363.1.9 gctttttttagtcaggtctgcctatgcgggagagtggcgttacttggggcaccgtaggct
+ERR12319363.1.6 gctttttttagtcaggtctgcctaggcgtgagagtggcgttccttggggcaccgtaggct
+ERR12319363.1.6 gctttttttagtcaggtctgcctatgcgtgagagtggcgttccttggggcaccgtaggct
+ERR12319363.1.4 gctttttttagtcaggtctgcctatgcgtgagagtggcgttccttggggcaccgtaggct
+ERR12319363.1.1 gctttttttagtcaggtctgcctatgcgtgggagtggcgttccttggggcaccgtaggct
+ERR12319363.1.1 gctttttttagtcaggtctgcctatgcgtgggagtggcgttccttggggcaccgtaggct
+Contig3_5975-66 gctttttttagtcaggtctgcctaggcgtgagagtggcgttccttggggcaccgtaggct
+Contig114_2070- gctttttttagtcaggtctgcctatgcgtgagagtggcgttccttggggcaccgtaggct
+ERR12319363.1.2 gctttttttagtcaggtctgcctatacgtgagagtggcgttccttggggcaccgtaggct
+Contig94_1008-1 gctttttttagtcaggtctgcctatgcgtgagagtggcgttccttggggcaccgtaggct
+ERR12319363.1.3 gctttttttagtcaggtctgcctatgcgtgagagtggcgttccttggggcaccgtaggct
+                ************************ .** *.*.******** ******************
+
+KU244280.1      catggaagattgggtactggagatggcctggactatttttcccatgctggcgctcgtacg
+ERR12319363.1.9 tatggaagattgggtactggagatggcctggactatttttcccatgctggcgctcgtacg
+ERR12319363.1.6 tatggaagatcgggtactggagatggcctggactatttttcccatgctggcgctcgtacg
+ERR12319363.1.6 tatggaagattgggtactggagatggcctggactatttttcccatgctggcgctcgtacg
+ERR12319363.1.4 tatggaagattgggtactggagatggcctggactatttttcccatgctggcgctcgtacg
+ERR12319363.1.1 tatggaagattgggtactggagatggcctggactatttttcccatgctggcgctcgtacg
+ERR12319363.1.1 tatggaagattgggtactggagatggcctggactatttttcccatgctggcgctcgtacg
+Contig3_5975-66 tatggaagatcgggtactggagatggcctggactatttttcccatgctggcgctcgtacg
+Contig114_2070- tatggaagattgggtactggagatggcctggactatttttcccatgctggcgctcgtacg
+ERR12319363.1.2 tatggatgattgggtactggagatggcctggactatttttcccatgctggcgctcgtacg
+Contig94_1008-1 tatggaagattgggtactggagatggcctggactatttttcccatgctggcgctcgtacg
+ERR12319363.1.3 tatggaagattgggtactggagatggcctggactatttttcccatgctggcgctcgtacg
+                .***** ***.*************************************************
+
+KU244280.1      gctgggttttccctctcttcggttgctctacttccaggaggagcggttttctgcagctta
+ERR12319363.1.9 gctgggttttccctctcttcggttgctctacttacaggaggagcggttttctgcagctta
+ERR12319363.1.6 gctgggttttccctctcttcggttgctctacttacaggaggagcggttttctgcagctta
+ERR12319363.1.6 gctgggttttccctctcttcggttgctctacttccaggaggagcggttttctgcagctta
+ERR12319363.1.4 gctgggttttccctctcttcggttgctctacttccaggaggagcggttttctgcagctta
+ERR12319363.1.1 gctgggttttccctctcttcggttgctctacttccaggaggagcggttttctgcagctta
+ERR12319363.1.1 gctgggttttccctctcttcggttgctctacttccaggaggagcggttttctgcagctta
+Contig3_5975-66 gctgggttttccctctcttcggttgctctacttacaggaggagcggttttctgcagctta
+Contig114_2070- gctgggttttccctctcttcggttgctctacttccaggaggagcggttttctgcagctta
+ERR12319363.1.2 gctgggttttccctctcttcggttgctctacttccaggaggagcggttttctgcagctta
+Contig94_1008-1 gcggggttttccctctcttcggttgctctacttccaggaggagcggttttctgcagctta
+ERR12319363.1.3 gctgggttttccctctcttcggttgctctacttccaggaggagcggttttctgcagctta
+                ** ****************************** **************************
+
+KU244280.1      cggcgttcgtatcgtaggccatcagtggttttgggagtacgatta-tcctgggggctggt
+ERR12319363.1.9 cggcgttcgtatcgtaggccatcagtggttttgggagtacgatta-tcctgggggctggt
+ERR12319363.1.6 cggcgttcgtatcgtaggccatcagtggttttgggagtacgatta-ttctgggagctggt
+ERR12319363.1.6 cggcgttcgtatcgtgggccatcagtggttttgggagtacgatta-tcctgggggctggt
+ERR12319363.1.4 cggcgttcgtatcgtgggccatcagtggttttgggagtacgatta-tcctgggggctggt
+ERR12319363.1.1 cggcgttcgtatcgtaggccatcagtggttttgggagtacgatta-tcctggaggctggt
+ERR12319363.1.1 cggcgttcgtatcgtaggccatcagtggttttgggagtacgatta-tcctggaggctggt
+Contig3_5975-66 cggcgttcgtatcgtaggccatcagtggttttgggagtacgatta-ttctgggagctggt
+Contig114_2070- cggcgttcgtatcgtaggccatcagtggttttgggagtacgatta-tcctgggggctggt
+ERR12319363.1.2 cggcgttcgtatcgtaggccatcagtggttttgggagtacgattattcctgggggctggt
+Contig94_1008-1 cggcgttcgtatcgtaggccatcagtggttttgggagtacgattattcctgggggctggt
+ERR12319363.1.3 cggcgttcgtatcgtgggccatcagtggttttgggagtacgatta-tcctgggggctggt
+                ***************.***************************** *.****..******
+
+KU244280.1      tgagccgctccgacagtgttcctacgcttgcagccgggttccgccggctctcgggggtgt
+ERR12319363.1.9 tgagccgctccgacagtgttcccacgcttgcagccgggttccgccggctctcgggg-tat
+ERR12319363.1.6 tgagccgctccgacagtgttcctacgcttgcagccgggttccgccggctctcgggggtat
+ERR12319363.1.6 tgagccgctccgacagtgctcctacgcttgcagccgggttccgccggctctcgggggtat
+ERR12319363.1.4 tgagccgctccgacagtgctcctacgcttgcagccgggttccgccggctctcgggggtat
+ERR12319363.1.1 tgagccgctccgacagtgttcccacgcttgcaaccgggttccgccggctctcgggggtat
+ERR12319363.1.1 tgagccgctccgacagtgttcccacgcttgcaaccgggttccgccggctctcgggggtat
+Contig3_5975-66 tgagccgctccgacagtgttcctacgcttgcagccgggttccgccggctctcgggggtat
+Contig114_2070- tgagccgctccgacagtgttcccacgcttgcaaccgggttccgccggctctcgggggtat
+ERR12319363.1.2 tgagccgcccggacagtgttctcacacttgcagccgggttccgctggctctcggggctat
+Contig94_1008-1 tgagccgcccggacagtgttctcacacttgcagccgggttccgctggctctcggggctat
+ERR12319363.1.3 tgagccgctccgacagtgctcctacgcttgcagccgggttccgccggctctcgggggtat
+                ********.* *******.**..**.******.***********.*********** *.*
+
+KU244280.1      ctgctcccctatttttgcctgttggcgtacgctgccgcaggttggttactagtgcggacg
+ERR12319363.1.9 ctgctcccctatttttgcctgttggcgtacgctgccgcaggttggttactagtgcggacg
+ERR12319363.1.6 ctgctcccctatttttgcctgttggcgtacgctgccgcaggttggttactagtgcggacg
+ERR12319363.1.6 ctgctcccctatttttgcctgttggcgtacgctgccgcaggttggttactagtgcggacg
+ERR12319363.1.4 ctgctcccctatttttgcctgttggcgtacgctgccgcaggttggttactagtgcggacg
+ERR12319363.1.1 ctgctcccctatttttgcctgttggcgtacgctgccgcaggttggttactagtgcggacg
+ERR12319363.1.1 ctgctcccctatttttgcctgttggcgtacgctgccgcaggttggttactagtgcggacg
+Contig3_5975-66 ctgctcccctatttttgcctgttggcgtacgctgccgcaggttggttactagtgcggacg
+Contig114_2070- ctgctcccctatttttgcctgttggcgtacgctgccgcaggttggttactagtgcggacg
+ERR12319363.1.2 ctactcctctatttttgcctgttggcgtacgctgccgcaggttggttactagtgcggacg
+Contig94_1008-1 ctactcctctatttttgcctgttggcgtacgctgccgtaggttggttactagtgcggacg
+ERR12319363.1.3 ctgctcccctatttttgcctgttggcgtacgctgccgcaggttggttactagtgcggacg
+                **.****.*****************************.**********************
+
+KU244280.1      ttctgcactctttttccttacccgc-ttgtggtgttaaggtagacgccgtacccggccgt
+ERR12319363.1.9 ttctgcactctttttccttaccccctttgtggtgttaaggtagacgccgtacccggccgt
+ERR12319363.1.6 ttctgcactctttttccttacccgc-ttgtggtgtcaaggtagacgccgtacccggccgt
+ERR12319363.1.6 ttctgcactctttttccttacccgc-ctgtggtgttaaggtagacgccgtacccggccgt
+ERR12319363.1.4 ttctgcactctttttccttacccgc-ctgtggtgttaaggtagacgccgtacccggccgt
+ERR12319363.1.1 ttctgcactctttttccttacccgc-ttgtggtgttaaggtagacgccgtacccggccgt
+ERR12319363.1.1 ttctgcactctttttccttacccgc-ttgtggtgttaaggtagacgccgtacccggccgt
+Contig3_5975-66 ttctgcactctttttccttacccgc-ttgtggtgtcaaggtagacgccgtacccggccgt
+Contig114_2070- ttctgcactctttttccttacccgc-ttgtggtgttaaggtagacgccgtacccggccgt
+ERR12319363.1.2 ttctgcactctttttccttgcccgc-ttgtggtgtcaaggtagacgccgtacccggccgt
+Contig94_1008-1 ttctgcactctttttccttgcccgc-ttgtggtgtcaaggtagacgccgtacccggccgt
+ERR12319363.1.3 ttctgcactctttttccttacccgc-ctgtggtgttaaggtagacgccgtacccggccgt
+                *******************.*** * .********.************************
+
+KU244280.1      ctgaactccctttgcttttttgttcatcgacctggctttttctacggccagtg-cagtga
+ERR12319363.1.9 ctgaactccctttgcttttttgttcatccacctggc--cttctacggccagtg-cagtga
+ERR12319363.1.6 ctgaactccctttgcttttttgttcatcgacctggctttttctacggccagtg-cagtga
+ERR12319363.1.6 ctgaactccctttgcttttttgttcatcgacctggctttttctacggccagtg-cagtga
+ERR12319363.1.4 ctgaactccctttgcttttttgttcatcgacctggctttttctacggccagtg-cagtga
+ERR12319363.1.1 ctgaactccctttgcttttttgttcatcgaccgggctttttctacggccagtg-cagtga
+ERR12319363.1.1 ctgaactccctttgcttttttgttcatcgaccgggctttttctacggccagtg-cagtga
+Contig3_5975-66 ctgaactccctttgcttttttgttcatcgacctggctttttctacggccagtg-cagtga
+Contig114_2070- ctgaactccctttgcttttttgttcatcgacctggctttttctacggccagtg-cagtga
+ERR12319363.1.2 ctgaactccctttgcttttttgttcaccgacctggc--cctctacggcaggggccggtgc
+Contig94_1008-1 ctgaactccctttgcttttttgttcaccgacctggctgttt-tacggccagtg-cagtgg
+ERR12319363.1.3 ctgaactccctttgcttttttgttcatcgacctggctttttctacggccagtg-cagtga
+                **************************.* *** ***  ..* ****** .* * *.*** 
+
+KU244280.1      gctgtgtggggcgaatcacaccttcatgcctgttttggcttataggctgccttgtgagct
+ERR12319363.1.9 gctgtgtggggcgaatcacaccttcatgcctgttttggcttataggctgccttgtgagct
+ERR12319363.1.6 gctgtgtggggcgaatcacaccttcatgcctgttttggcttataggctgccttgtgagct
+ERR12319363.1.6 gctgtgtggggcgaatcacaccttcatgcctgttttggcttataggctgccttgtgagct
+ERR12319363.1.4 gctgtgtggggcgaatcacaccttcatgcctgttttggcttataggctgccttgtgagct
+ERR12319363.1.1 gctgtgtggggcgaatcacaccttcatgcctgttttggcttataggctgccttgtgagct
+ERR12319363.1.1 gctgtgtggggcgaatcacaccttcatgcctgttttggcttataggctgccttgtgagct
+Contig3_5975-66 gctgtgtggggcgaatcacaccttcatgcctgttttggcttataggctgccttgtgagct
+Contig114_2070- gctgtgtggggcgaatcacaccttcatgcctgttttggcttataggctgccttgtgagct
+ERR12319363.1.2 gctacgtggggcgaatcacaccttcatgcctgttttggtctataggctggctt-------
+Contig94_1008-1 gctgtgtggggcaaatcacaccttcatgcctgttttggcttataggctggctt-------
+ERR12319363.1.3 gctgtgtggggcgaatcacaccttcatgcctgttttggcttataggctgccttgtgagct
+                ***..*******.*************************..********* ***       
+
+KU244280.1      gttttaa
+ERR12319363.1.9 gttt---
+ERR12319363.1.6 gttt---
+ERR12319363.1.6 gttt---
+ERR12319363.1.4 gttt---
+ERR12319363.1.1 gttt---
+ERR12319363.1.1 gttt---
+Contig3_5975-66 gttt---
+Contig114_2070- gttt---
+ERR12319363.1.2 -------
+Contig94_1008-1 -------
+ERR12319363.1.3 gttt---
+                       

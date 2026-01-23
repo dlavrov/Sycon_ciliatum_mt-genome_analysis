@@ -1,0 +1,13 @@
+##gff-version 3
+# polyA/polyT mononucleotide runs (A-only or T-only)
+Contig38	polyAT	polyA_run	1	24	.	+	.	ID=polyA_run_Contig38_1;Base=A;Length=24;End=left
+Contig38	polyAT	polyT_run	5138	5154	.	+	.	ID=polyT_run_Contig38_1;Base=T;Length=17;End=right
+ERR12319363.1.4371402	polyAT	polyA_run	1	31	.	+	.	ID=polyA_run_ERR12319363.1.4371402_1;Base=A;Length=31;End=left
+Contig95	polyAT	polyA_run	1	11	.	+	.	ID=polyA_run_Contig95_1;Base=A;Length=11;End=left
+Contig95	polyAT	polyT_run	5405	5452	.	+	.	ID=polyT_run_Contig95_1;Base=T;Length=48;End=right
+Contig114	polyAT	polyA_run	1	15	.	+	.	ID=polyA_run_Contig114_1;Base=A;Length=15;End=left
+Contig114	polyAT	polyT_run	5039	5052	.	+	.	ID=polyT_run_Contig114_1;Base=T;Length=14;End=right
+Contig72	polyAT	polyA_run	1	12	.	+	.	ID=polyA_run_Contig72_1;Base=A;Length=12;End=left
+ERR12319363.1.1582962	polyAT	polyA_run	1	29	.	+	.	ID=polyA_run_ERR12319363.1.1582962_1;Base=A;Length=29;End=left
+Contig89	polyAT	polyA_run	1	31	.	+	.	ID=polyA_run_Contig89_1;Base=A;Length=31;End=left
+Contig89	polyAT	polyT_run	4951	5008	.	+	.	ID=polyT_run_Contig89_1;Base=T;Length=58;End=right

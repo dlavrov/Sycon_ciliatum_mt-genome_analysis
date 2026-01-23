@@ -1,0 +1,122 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.505)
+
+
+KU244282.1      ttgcaggctttttcctttttttggctctggttgtcttctttttctagggtctcgtgcacc
+ERR12319363.1.5 -tgcaggctttttcctttttttgactctggttgtcttctttttctggggtctcaggcact
+ERR12319363.1.3 -tgcaggctttttcctttttttgactctggttgtcttctttttctggggtctcaggcact
+Contig1_1960-30 -tgcaggctttttcctttttttggctctggttgtcttctttttctagggtctcaggcact
+                 **********************.*********************.*******. ****.
+
+KU244282.1      caggggtctaactttttttgatcttcagagagggctagactgctatttttgctcccttta
+ERR12319363.1.5 cagggagctaactttttttggtcttcagagagggctaggcttctatttttgctccctttg
+ERR12319363.1.3 cagggagctaactttttttggtcttcagagagggctaggcttctatttttgctccctttg
+Contig1_1960-30 cagggggctaactttttttggtcttcagggagggctaggcttctatttttgctcccttta
+                *****. *************.*******.*********.** *****************.
+
+KU244282.1      gttgtccctatctctgcttggagagcccccaggtataggcggttttttcacaccgtattg
+ERR12319363.1.5 gttgtccctatctctgcttggagagcccctagttacaggcggttttttcacacattgctg
+ERR12319363.1.3 gttgtccctatctctgcttggagagcccctagttacaggcggttttttcacacattgctg
+Contig1_1960-30 gttgtccccatctctgcctggagagcgcctagttacaggcggttttttcacacagtgctg
+                ********.********.******** **.** **.*****************  *..**
+
+KU244282.1      gtcttcaggatctgtgctttttgtgccctcttttttagggccccaagctggctgcttcta
+ERR12319363.1.5 gtcttcaggatctgtgctttttgtgccctcttttttacggctccaagctggctacttctg
+ERR12319363.1.3 gtcttcaggatctgtgctttttgtgccctcttttttacggctccaagctggctacttctg
+Contig1_1960-30 gtcttcagggtctgtgctttttgcgccctcttttttacggctccaagctggctacttctg
+                *********.*************.************* ***.***********.*****.
+
+KU244282.1      tttttttctttcgaggccgtgggggctagaacctttttgttaattggtctttttgggggc
+ERR12319363.1.5 tttttttccttcgaggccgtaggcgccagaacctttttgttaattggtctttttgggagc
+ERR12319363.1.3 tttttttccttcgaggccgtaggcgccagaacctttttgttaattggtctttttgggagc
+Contig1_1960-30 tttttttccttcgaggccgtaggcgccagaacctttttgttaattggtctttttgggagc
+                ********.***********.** **.******************************.**
+
+KU244282.1      ttggctaggcgttattctgcagggcttcacttttttggttatggggccttaggggctacc
+ERR12319363.1.5 ttgactaggcgctacgctgcagggcttcacttttttggctacggggccttaggggctact
+ERR12319363.1.3 ttgactaggcgctacgctgcagggcttcacttttttggctacggggccttaggggctact
+Contig1_1960-30 ttgactaggcgctactctgcggggcttcacttttttggctacggggccttaggggctact
+                ***.*******.**. ****.*****************.**.*****************.
+
+KU244282.1      tttttgtggctatcttgactggcttctagggcctcttctaccctctctcctcattggggg
+ERR12319363.1.5 tttttatggctatcttggttggcttccagggcttcttctactctatctccttactgaggg
+ERR12319363.1.3 tttttatggctatcttggttggcttccagggcttcttctactctatctccttactgaggg
+Contig1_1960-30 tttttatggctatcttggttggcttctagggcttcttctactctgtcgccttactgaggg
+                *****.***********..*******.*****.********.** ** ***.*.**.***
+
+KU244282.1      gctggggagtcttccctctgatggtggggttggaggatcccctttttattcaagttgccc
+ERR12319363.1.5 gctggcgagtcttccctctgatggtacggttggaggatcccttttttattcaagctgcct
+ERR12319363.1.3 gctggcgagtcttccctctgatggtacggttggaggatcccttttttattcaagctgcct
+Contig1_1960-30 gctggcgagtcttccctctgatggtgcggttggaggatcccctttttattcaagctgcct
+                ***** *******************. **************.************.****.
+
+KU244282.1      ctctaccccgcgcatgactgattattacgggctcattccgaggcctcgttagtggggtcc
+ERR12319363.1.5 ctctatcccg-ccatgattggctgttacgagcgcactccgaagcctctctagtagggtct
+ERR12319363.1.3 ctctatcccgcccatgattggctgttacgagcgcactccgaagcctctctagtagggtct
+Contig1_1960-30 ctctaccccgcccatgattggctgttacgagcgcattccgaagcctctctagtagggtct
+                *****.****  *****.**..*.*****.** **.*****.***** .****.*****.
+
+KU244282.1      gttttactggctaccgttctcctgaagctggggggaatggggcttattcgattagcccta
+ERR12319363.1.5 gttttactggccacagttctcttgaagctggggggaatgggacttatccgcttggcccta
+ERR12319363.1.3 gttttactggccacagttctcttgaagctggggggaatgggacttatccgcttggcccta
+Contig1_1960-30 gttttactggccacagttctcttgaagctggggggaatgggacttatccgcttggcccta
+                ***********.** ******.*******************.*****.** **.******
+
+KU244282.1      ccagctgagccttttttgctctctatctcttttttagggctgctggtaggtccttttttg
+ERR12319363.1.5 cccgctgagccctttttactctctgtctcttttttggggctgttagtggg-ccttttttg
+ERR12319363.1.3 cccgctgagccctttttactctctgtctcttttttggggctgttagtgggcccttttttg
+Contig1_1960-30 cccgctgagccctttttactctctgtctcttttttggggctgttagtgggcccttttttg
+                ** ********.*****.******.**********.******.*.**.** *********
+
+KU244282.1      acgcttcgccaggtacacgcgaagcggttagtagcagcctcctccctagggcatatggct
+ERR12319363.1.5 acacttcgtcaggttcatgccaagcgcttggtagcagcttcctccttggggcatatggct
+ERR12319363.1.3 acacttcgtcaggttcatgccaagcgcttggtagcagcttcctccttggggcatatggct
+Contig1_1960-30 acacttcgtcaggtacatgctaagcgcttggtagcagcttcctccttggggcatatggct
+                **.*****.***** **.** ***** **.********.******.*.************
+
+KU244282.1      agagtgggggcagttttagcttgtggacagccctcccccaggaggtatctaatggttgcc
+ERR12319363.1.5 ggagtgggcgcagttttagcttgtgggcagccgtctcctgggaggtacctgatggttacg
+ERR12319363.1.3 ggagtgggcgcagttttagcttgtgggcagccgtctcctgggaggtacctgatggttacg
+Contig1_1960-30 agagtgggtgcagttttagcttgtgggcagccctctcctagaaggtacctgatggttacg
+                .******* *****************.***** **.**..*.*****.**.******.* 
+
+KU244282.1      catgggcttacctctccctttttgttctttttggttgtacagatggccagccgactgaac
+ERR12319363.1.5 catgggcttacttctccctttttgttctttttggttgtgtacatggctggtcgactgaac
+ERR12319363.1.3 catgggcttacttctccctttttgttctttttggttgtgtacatggctggtcgactgaac
+Contig1_1960-30 catgggcttacttctccctttttgttctttttggttgtgcacatggccggtcggctgaac
+                ***********.**************************..* *****..*.**.******
+
+KU244282.1      tctttttctacagccctttgacggggttggcttagagctaggcctcttttttccttcttt
+ERR12319363.1.5 tctttttctactgccctttgacggggctggcttagggctaggccgcttttttccttc---
+ERR12319363.1.3 tctttttctactgccctttgacggggctggcttagggctaggccgcttttttccttcttt
+Contig1_1960-30 tctttttctaccgccctttgacggggttggcttaggactaggccgcttttttccttcttt
+                *********** **************.********..******* ************   
+
+KU244282.1      ttactcctagccgccgccgcaggctggggttttcccccagcagcctccttttttagagag
+ERR12319363.1.5 ttgctcttggccgctgccgcaggttgaggttttcccc---cagcctcctttttcagagaa
+ERR12319363.1.3 ttgctcttggccgctgccgcaggttgaggttttcccccagcagcctcctttttcagagaa
+Contig1_1960-30 ttgctcttggccgctgccgcaggttgaggttttcccccagcagcctcctttttcagagaa
+                **.***.*.*****.********.**.**********   *************.*****.
+
+KU244282.1      gtgagaagggctgaggcttggttaacctacgggactcctctagccgtcagggccctgagg
+ERR12319363.1.5 gtgagaagggctgaggcttggctatttttcgga---attctggctatcagggctctgagg
+ERR12319363.1.3 gtgagaagggctgaggcttggctatcttacggaactattctggctatcagggctctgagg
+Contig1_1960-30 gtgagaagggctgaggcttggctatcttacgggactattctggctatcagggctctgagg
+                *********************.** ..* ***.    .***.**..*******.******
+
+KU244282.1      tctggggctattggacgaatctactccctctttttagtcgggcggaccggcggaggagca
+ERR12319363.1.5 tctgcagctattggccgaatctactctctctttttagtgggccggactaggggagggact
+ERR12319363.1.3 tctgcagctattggccgaatctactctctctttttagtgggccggactaggggagggact
+Contig1_1960-30 tctgcagctattggccgaatctactctctctttttagtgggccggactgggggagggact
+                **** .******** ***********.*********** ** *****..* *****..* 
+
+KU244282.1      caccacccctctttttcttattctcgggactgaacaaggggggagatcctttttggcatt
+ERR12319363.1.5 tatca-ccctctttttcttacaggcgagactgaaggaaggcggagaccctttttggcatt
+ERR12319363.1.3 tatcacccctctttttcttacaggcgagactgaaggaaggcggagaccctttttggcatt
+Contig1_1960-30 tatcacccctctttttcttacaggcgagactgaacgagggcggagaccctttttggcatt
+                .*.** **************.   **.******* .*.** *****.*************
+
+KU244282.1      ttttggctggccctttccctcaccgctggttgggggtattacctcttgtttt
+ERR12319363.1.5 ttttggctaacc--ttccctcgctgctggtt-gggttattacctcttgt---
+ERR12319363.1.3 ttttggctaaccctttccctcgctgctggttggggttattacctcttgtt--
+Contig1_1960-30 ttttggctaaccctttccctcgctgctggttggggttattacctcttgtt--
+                ********..**  *******.*.******* *** *************   

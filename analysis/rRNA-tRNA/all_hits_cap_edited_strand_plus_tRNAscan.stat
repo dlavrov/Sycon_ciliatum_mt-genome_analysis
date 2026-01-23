@@ -1,0 +1,75 @@
+
+tRNAscan-SE v.2.0.11 (Oct 2022) scan results (on host nova21-29)
+Started: Wed Oct 22 04:40:40 PM CDT 2025
+
+------------------------------------------------------------
+Sequence file(s) to search:        all_hits_cap_edited_strand_plus.fa
+Search Mode:                       Organellar
+Results written to:                all_hits_cap_edited_strand_plus_tRNAscan.out
+Output format:                     Tabular
+Searching with:                    Infernal single-pass scan
+                                   Maximum sensitivity mode
+Covariance model:                  /opt/rit/el9/20230413/app/linux-rhel9-x86_64_v3/gcc-11.2.1/trnascan-se-2.0.11-apgeqbbfceizt2mrj4fkibgjsf23y5eb/lib/tRNAscan-SE/models/TRNAinf-1415.cm
+
+Temporary directory:               /tmp
+tRNA secondary structure
+    predictions saved to:          all_hits_cap_edited_strand_plus_tRNAscan.str
+tRNA predictions saved to:         all_hits_cap_edited_strand_plus_tRNAscan.bed
+Predicted tRNA sequences
+    saved to:                      all_hits_cap_edited_strand_plus_tRNAscan.fa
+Search statistics saved in:        all_hits_cap_edited_strand_plus_tRNAscan.stat
+
+Pseudogene checking disabled
+------------------------------------------------------------
+
+Infernal Stats:
+-----------
+Sequences read:           1784
+Infernal-confirmed tRNAs:     108
+Bases scanned by Infernal:  10754396
+% seq scanned by Infernal:  100.0 %
+Script CPU time:          1.91 s
+Infernal CPU time:            3808.21 s
+Scan speed:               2824.0 bp/sec
+
+Infernal analysis of tRNAs ended: Wed Oct 22 06:02:25 PM CDT 2025
+
+Overall scan speed: 2822.6 bp/sec
+
+tRNAs decoding Standard 20 AA:              82
+Selenocysteine tRNAs (TCA):                 0
+Possible suppressor tRNAs (CTA,TTA,TCA):    0
+tRNAs with undetermined/unknown isotypes:   26
+Predicted pseudogenes:                      0
+                                            -------
+Total tRNAs:                                108
+
+tRNAs with introns:     	1
+
+| Phe-AAA: 1 |
+
+Isotype / Anticodon Counts:
+
+Ala     : 0	  AGC:         GGC:         CGC:         TGC:       
+Gly     : 1	  ACC:         GCC: 1       CCC:         TCC:       
+Pro     : 0	  AGG:         GGG:         CGG:         TGG:       
+Thr     : 0	  AGT:         GGT:         CGT:         TGT:       
+Val     : 0	  AAC:         GAC:         CAC:         TAC:       
+Ser     : 42	  AGA: 1       GGA: 4       CGA: 6       TGA: 3       ACT:         GCT: 28    
+Arg     : 2	  ACG: 2       GCG:         CCG:         TCG:         CCT:         TCT:       
+Leu     : 13	  AAG:         GAG: 4       CAG:         TAG: 8       CAA: 1       TAA:       
+Phe     : 2	  AAA: 1       GAA: 1                               
+Asn     : 1	  ATT:         GTT: 1                               
+Lys     : 2	                            CTT: 1       TTT: 1     
+Asp     : 0	  ATC:         GTC:                                 
+Glu     : 2	                            CTC:         TTC: 2     
+His     : 0	  ATG:         GTG:                                 
+Gln     : 0	                            CTG:         TTG:       
+Ile     : 1	  AAT:         GAT: 1       CAT:         TAT:       
+Met     : 13	                            CAT: 13                 
+Tyr     : 0	  ATA:         GTA:                                 
+Supres  : 0	               CTA:         TTA:         TCA:       
+Cys     : 3	  ACA: 2       GCA: 1                               
+Trp     : 0	                            CCA:                    
+SelCys  : 0	                                         TCA:       
+
