@@ -2,9 +2,9 @@
 
 This repository contains assembly and analysis of *Sycon ciliatum* mt-genome
 The main directory contains the following subdirectories
-- analysis: analysis
+- analysis: analysis of genomic and transcriptomic data
+- assemblies: results of assemblies using CAP3
 - blast-db: database of coding sequences 
-- cap-assembly: results of assemblies using CAP3
-- PacBio\_mt\_data: selection of PacBio sequences based on blast searches
+- mt\_data: inferred mitochondrial PacBio sequences and transcripts
 - README.md: this file
 - scripts: scripts used in the analysis
