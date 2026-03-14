@@ -4,10 +4,10 @@
 - blast.job: 
 - blast\_cds.sh: bash script to run command-line blast command
 - blast\_to\_gff.py: making gff file for blast hits
-- bowtie.sh: bash script to run bowtie2 command, calculate per base and mean coverage.
 - bowtie1.sh: bash script to run bowtie1 command with strict options; calculate
   base-level and mean coverage.
 - bowtie1\_only.sh: bash script to only run bowtie1 command
+- bowtie2.sh: bash script to run bowtie2 command, calculate per base and mean coverage.
 - bowtie2coverage.py: python script to convert bowtie1 output to per position
   coverage table. NOT used in the final analysis
 - cap3\_all.job: Slurm script to do cap3 assembly with the default parameters
